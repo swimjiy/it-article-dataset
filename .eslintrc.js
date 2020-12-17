@@ -4,7 +4,7 @@ module.exports = {
     commonjs: true,
     es6: true,
   },
-  extends: 'airbnb',
+  extends: ['airbnb-typescript'],
   parserOptions: {
     ecmaVersion: 2015,
     sourceType: 'module',
@@ -13,5 +13,16 @@ module.exports = {
     'react',
   ],
   rules: {
+    'react/prop-types': 'off',
+  },
+  settings: {
+    'import/resolver': {
+      alias: {
+        map: [
+          ['@', './src'],
+        ],
+        extensions: ['.ts', '.tsx'],
+      },
+    },
   },
 };
