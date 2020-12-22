@@ -9,6 +9,7 @@
     "strict": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
+    "resolveJsonModule": true,
     "target": "es6",
     "baseUrl": "./",
     "module": "commonjs",
