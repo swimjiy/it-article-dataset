@@ -12,7 +12,6 @@
     "resolveJsonModule": true,
     "target": "es6",
     "baseUrl": "./",
-    "module": "commonjs",
     "moduleResolution": "node",
     "lib": [
       "es5",
