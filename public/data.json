@@ -6,22 +6,799 @@
 			"summary": "글에서는 ECMA와 ECMAScript를 설명하고, Javascript와 ES가 어떤 접점을 갖고 있는지 쉬운 예시를 들어 설명하고 있습니다. 저처럼 평소에 별 생각 없이 ES6를 쓰고 계시거나, ECMA에 대해 평소 궁금했던 분들께 추천 드립니다!",
 			"url": "https://wormwlrm.github.io/2018/10/03/What-is-the-difference-between-javascript-and-ecmascript.html",
 			"date": "2020-12-20",
-			"tags": ["javaScript", "front-end"]
+			"tags": ["javaScript"]
 		},
 		{
 			"id": 2,
 			"title": "소프트웨어 학습 태도",
 			"summary": "개발을 하는 데 필요한 마음가짐에 대해 이야기하고 있습니다. 단순한 명제들일 수 있으나 은근 이런 당연한 것들을 잊고 코드를 짜게 되어 한 번 리마인드하는 데 추천합니다.",
 			"url": "https://brunch.co.kr/@godrm77/16",
-			"date": "2020-12-20",
-			"tags": ["IT"]
+			"date": "2020-09-08",
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 3,
 			"title": "2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
 			"summary": "2020년 시점에서 JavaScript를 중심으로 오가고 있는 다양한 이슈들(크로스 브라우징, TypeScript 등) 대해 간략히 정리하고, ECMAScript2020에서 새로 추가된 스펙들과 앞으로 추가될 명세들을 한눈에 확인할 수 있습니다.",
-			"date": "2020-12-21",
-			"tags": ["javaScript", "front-end"]
+			"url": "https://d2.naver.com/helloworld/4268738",
+			"date": "2020-09-09",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 4,
+			"title": "How to learn React.js in 2020",
+			"summary": "리액트를 시작하기 전에 알아두면 좋을 사전 지식, 리액트를 공부하는 다양한 방법 등 초심자를 위한 리액트 종합 안내서 같은 글입니다. 현업에서 리액트를 쓰고 있음에도 새로 알게 된 내용들이 많았고, fe공부를 갓 시작하신 분들에게도 도움이 될 것 같아 공유합니다.",
+			"url": "https://www.robinwieruch.de/learn-react-js",
+			"date": "2020-09-10",
+			"tags": ["React"]
+		},
+		{
+			"id": 5,
+			"title": "Flatten Array using Array.flat() in JavaScript",
+			"summary": "ES2019(ES10)에 추가된 flat() 메서드에 대한 간략한 설명글입니다. flatMap()과 더불어 처음 알게 된 개념인데 복잡한 구조의 배열을 여러 과정을 거치지 않아도 빠르게 평탄하게 만들 수 있다는 점이 매력적인 것 같습니다.",
+			"url": "https://medium.com/dailyjs/flatten-array-using-array-flat-in-javascript-ee4d0b2423e5",
+			"date": "2020-09-11",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 6,
+			"title": "My blog is a digital garden, not a blog",
+			"summary": "자신의 블로그를 digital garden이라고 생각하게 된 이유에 대해 간단하게 설명한 글입니다. 블로그 또한 garden처럼 일종의 지식이 자라는 공간이고, 포스팅을 하며 관련 지식이 잘 자랄 때도 있고 아닐 때도 있다는 점에서 공통점을 찾은 점이 재미있었습니다.",
+			"url": "https://joelhooks.com/digital-garden",
+			"date": "2020-09-12",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 7,
+			"title": "비전공 개발자가 전공자보다 정말 불리할까?",
+			"summary": "필자가 여러 개발자를 만나보고 개발자 면접도 진행하면서 느낀 비전공 개발자에 대한 생각을 정리한 글입니다. 평소에 많이 고민했던 주제라 공감 가는 문장도 많았고, 앞으로 개발자로 성장하는 데 있어 내 강점을 어떻게 어필하면 좋을지에 대해 생각해볼 수 있었던 글이었습니다.",
+			"url": "https://evan-moon.github.io/2019/09/09/major-is-not-important/",
+			"date": "2020-09-13",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 8,
+			"title": "자바스크립트에서 유용할 수도 있는 연산자들 모음",
+			"summary": "더블 느낌표(!!)부터 더블 마침표(..)까지 신박한 연산자들을 소개하는 글입니다. 개인적으로 느낌표 말고는 처음 본 연산자들이라 이게 js에서 가능하다는 사실도 신기했고 어떤 상황에서 쓰게 될지 궁금하기도 했습니다.",
+			"url": "https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EC%9A%A9%ED%95%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4-%EB%AA%A8%EC%9D%8C-3450083838fb",
+			"date": "2020-09-14",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 9,
+			"title": "입사 후 6개월 동안 달라진 것들 – 2020 신입 온보딩 과정 그 후의 이야기",
+			"summary": "카카오 신입 개발자분들이 6개월동안 회사를 다니며 느꼈던 점들을 가볍게 정리한 인터뷰 글입니다. 신입일 때 원격 근무를 하게 되며 느낀 고충이 지금 제 상황이랑 비슷하여 재미있게 읽었습니다.",
+			"url": "https://tech.kakao.com/2020/09/02/2021-kakao-newkrew-3/",
+			"date": "2020-09-15",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 10,
+			"title": "좋은 PR에 대한 단상",
+			"summary": "제목 그대로 작업자와 리뷰어 모두에게 편리한 PR이란 무엇일까에 대해 고민하는 글입니다. PR단위를 적당하게 쪼개고 코드 컨벤션을 지켜 작성하는 등 기본적인 규칙일 수 있으나 실제 업무 상에서 무심코 잊게 되는 수칙들이 잘 정리되어 있어 다음 PR에서는 참고해야겠다고 생각했습니다.",
+			"url": "https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac",
+			"date": "2020-09-16",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 11,
+			"title": "웹 프론트 속도 개선을 위한 필수도구 소개",
+			"summary": "글 자체는 JENNIFER Front라는 프론트엔드 모니터링 도구에 대한 소개가 주를 이룹니다. 다만 프론트엔드 개발을 하다보면 속도에 대한 문제를 항상 마주하게 되는데, 어떤 부분에서 주로 느려지는 상황이 생기는지 항목별로 알 수 있어 재밌게 읽었습니다.",
+			"url": "https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C?fbclid=IwAR3zGPeXC2J7nEweumeTxvCjerwZ1rwSOedjXf5hmmAqr1T_vsZHoJf-71Y",
+			"date": "2020-09-17",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 12,
+			"title": "Redux로의 카툰 안내서",
+			"summary": "리덕스의 개념과 동작 과정을 카툰으로 설명하는 글입니다. 리덕스의 각 요소들을 사람에 비유해서 설명한 점이 재미있었고 확실히 그림이 들어가 있어 이해하기 쉬웠습니다.",
+			"url": "https://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/",
+			"date": "2020-09-18",
+			"tags": ["React"]
+		},
+		{
+			"id": 13,
+			"title": "실용적인 프론트엔드 테스트 전략 (1)",
+			"summary": "프론트엔드 파트에서 왜 테스트 자동화가 중요한지, 그리고 좋은 테스트 방법이란 어떤 것인지 설명하는 글입니다. 오늘 소개한 글은 1편이며 총 3편으로 이루어져 있습니다. 평소에 테스트의 중요성을 인지하고는 있었지만 어떻게 접근을 하면 좋을지 막연했는데 갈피를 잡는 데 도움이 되었습니다.",
+			"url": "https://meetup.toast.com/posts/174",
+			"date": "2020-09-19",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 14,
+			"title": "재능과 열정 없이도 프로그래밍을 하는 사람들",
+			"summary": "유명한 개발자들의 사연을 소개하며 개발은 배우는 방법과 태도가 중요할 뿐 재능과 열정을 요구하지 않는다고 이야기하는 글입니다. 나는 주변 개발자처럼 그다지 프로그래밍에 열정이나 재능을 갖고 있지 않은데 계속 이 길을 가도 괜찮을까? 라고 고민하는 분들에게 도움이 될 것 같습니다.",
+			"url": "https://flearning-blog.tistory.com/m/237",
+			"date": "2020-09-20",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 15,
+			"title": "React 컴포넌트를 커스텀 훅으로 제공하기",
+			"summary": "커스텀 훅을 이용하여 재사용성이 높은 컴포넌트 로직을 작성하는 방법을 소개하는 글입니다.",
+			"url": "https://engineering.linecorp.com/ko/blog/line-securities-frontend-3/",
+			"date": "2020-09-21",
+			"tags": ["React"]
+		},
+		{
+			"id": 16,
+			"title": "하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세",
+			"summary": "하고 싶은 카테고리를 정하고 그것을 각 25분 동안 꾸준히 진행한 과정과 느낀 점을 기록한 글입니다. 자신만의 루틴 만들기를 어디서부터 시작하면 좋을지, 그리고 루틴에는 어떤 것이 좋을지 생각해볼 수 있던 시간이었습니다. 개인적으로 피아노 연습과 명상이 괜찮아 보여 제 하루 일과에도 포함해보고 싶었습니다.",
+			"url": "https://blog.shiren.dev/2020-09-07/",
+			"date": "2020-09-22",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 17,
+			"title": "자바스크립트 객체 복사하기",
+			"summary": "개발하던 도중 js에서 object를 참조가 아닌 복제해야 하는 상황이 생겨 찾아본 글입니다. spread operator를 주로 사용했는데 이것도 객체의 프로퍼티가 객체일 경우 참조를 한다는 사실을 처음 알게 되어 신기했습니다.",
+			"url": "https://junwoo45.github.io/2019-09-23-deep_clone/",
+			"date": "2020-09-23",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 18,
+			"title": "번들러",
+			"summary": "자바스크립트 번들러에 대해 소개하고 유명한 번들러인 webpack을 이용해 번들링하는 방법을 소개하는 글입니다. 이번에  웹팩을 공부하다 보게 된 글인데 설명도 자세하고 예시도 잘 되어있어 쉽게 이해할 수 있었습니다.",
+			"url": "https://ui.toast.com/fe-guide/ko_BUNDLER",
+			"date": "2020-09-24",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 19,
+			"title": "The Ultimate Guide to Web Performance",
+			"summary": "웹 개발에 필요한 기술 및 스킬과 관련한 글들을 아카이빙한 포스트입니다. html부터 서버,  테스팅 툴까지 웹 개발과 관련한 핵심 정보들만 추린 것 같고 저도 아직 전부 읽진 못해서 필요할 때 차차 꺼내볼 예정입니다.",
+			"url": "https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4",
+			"date": "2020-09-25",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 20,
+			"title": "FE플랫폼팀이 궁금하세요? – 함께 성장해가는 개발팀 이야기",
+			"summary": "카카오 FE플랫폼팀에서는 어떤 기술 스택, 개발 문화를 갖고 있는지 간단한 통계 자료를 곁들여 설명하는 글입니다. fe개발자로서 평소에도 다른 회사의 프론트엔드 개발자는 어떻게 일을 하는지 궁금했기에 재미있게 읽었습니다.",
+			"url": "https://tech.kakao.com/2020/09/21/kakao-fe-platform-team/",
+			"date": "2020-09-26",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 21,
+			"title": "코딩 테스트에서 C++과 파이썬이 유리한 까닭은?",
+			"summary": "알고리즘 문제 풀이 방식의 코딩 테스트에서 C++ 과 파이썬이 유리한 언어인 이유를 설명하는 글입니다. 예전에 코딩 테스트를 풀면서 궁금했던 문제였는데 이번 기회에 이해하게 되었습니다.",
+			"url": "https://techit.kr/view/?no=20200926082812",
+			"date": "2020-09-27",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 22,
+			"title": "Webpack과 Babel을 이용한 React 개발 환경 구성하기",
+			"summary": "이번에 CRA말고 혼자서 react 보일러플레이트를 만들 기회가 생겨 이것저것 공부하다가 참고한 자료입니다. 작업 과정이 상세하게 단계별로 적혀 있어 쉽게 이해할 수 있었습니다.",
+			"url": "https://medium.com/wasd/%EC%9B%B9%ED%8C%A9-webpack-%EA%B3%BC-%EB%B0%94%EB%B2%A8-babel-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-react-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-fb87d0027766",
+			"date": "2020-09-28",
+			"tags": ["React"]
+		},
+		{
+			"id": 23,
+			"title": "트리 쉐이킹으로 자바스크립트 페이로드 줄이기",
+			"summary": "사용하지 않는 유틸을 번들링 과정에서 제거함으로써 서비스 속도를 개선하는 기술인 tree-shacking에 대해 소개하는 글입니다. 웹팩을 공부하며 함께 나온 개념이라 이번 기회에 따로 알아보게 되었는데, 이번 기회에 named import를 사용하는 이유에 대해서도 알게 되었습니다.",
+			"url": "https://ui.toast.com/weekly-pick/ko_20180716/",
+			"date": "2020-09-29",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 24,
+			"title": "개발자를 위한 정보 검색 팁",
+			"summary": "개발에 있어 중요한 역량(?) 중 하나인 검색 능력에 대한 필자의 생각과 팁을 소개하는 글입니다. 평소 몰랐던 팁도 발견할 수 있었고 중간에 나오는 예시 상황도 공감이 되어 재미있게 읽었습니다.",
+			"url": "https://boxnwhis.kr/2020/09/27/ir-for-developers.html",
+			"date": "2020-09-30",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 25,
+			"title": "Which colour scheme is better?",
+			"summary": "브라우저나 vscode 등을 사용할 때 밝은 테마가 어두운 테마보다 나은 이유를 설명하는 글입니다. 항상 다크모드가 눈의 피로를 덜어준다고 해서 사용하고 있었는데 반대되는 주장이기에 재미있게 읽었습니다.",
+			"url": "https://stitcher.io/blog/why-light-themes-are-better-according-to-science",
+			"date": "2020-10-01",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 26,
+			"title": "자바스크립트 이벤트 핸들러",
+			"summary": "이벤트 루프 과정을 gif파일로 이해하기 쉽게 설명한 글입니다. 개인적으로 애니메이션이 정말 깔끔하게 만들어져서 신기하게 읽었습니다.",
+			"url": "https://aicompany2.blogspot.com/2020/10/blog-post.html?spref=fb&fbclid=IwAR3cyzN1IbTkvFnzAFUS-2FJpl0JddH239un2VxK0BJsNORX9eZXcE1JGQw&m=1",
+			"date": "2020-10-02",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 27,
+			"title": "Never confuse JSON and JavaScript Object ever again!",
+			"summary": "JSON과 JavaScript의 Object 형태의 특징 및 차이점에 대해 설명하는 글입니다. 코드를 짜다 갑자기 object property의 key값에 따옴표를 넣는 차이에 대해 궁금해져서 찾아본 글인데 이번 기회로 그 차이점을 정확히 알게 된 것 같습니다.",
+			"url": "https://medium.com/@alifabdullah/never-confuse-json-and-javascript-object-ever-again-7c32f4c071ad",
+			"date": "2020-10-03",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 28,
+			"title": "'가짜개발자'라는 글을 쓴 후",
+			"summary": "최근 개발자들 사이에서 떠돌았던 '가짜 개발자' 밈을 만들게 된 이유를 설명한 글입니다. 저 또한 친구의 공유로 글을 읽게 되었었는데 반가운 마음도 있었고, 글의 내용 또한 비전공자로서 공감가는 부분이 많이 재미있게 읽었습니다.",
+			"url": "https://velog.io/@dongyi/%EA%B0%80%EC%A7%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%8A%94-%EA%B8%80%EC%9D%84-%EC%93%B4-%ED%9B%84",
+			"date": "2020-10-04",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 29,
+			"title": "JSConf 2020 당근마켓 배지원정대 퀴즈 풀이 - 오답 노트",
+			"summary": "JSConf 2020 행사 도중 당근마켓에서 진행했던 깜짝 퀴즈의 답과 풀이 방법을 설명한 글입니다. 컨퍼런스에서 봤을 땐 약간 눈대중으로 풀었는데 블로그 설명을 보면서 더 확실하게 이해할 수 있었습니다.",
+			"url": "https://velog.io/@modolee/jsconf2020-karrot-market-quiz",
+			"date": "2020-10-05",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 30,
+			"title": "Vue 3 가볍게 훑어보기",
+			"summary": "이번에 새롭게 업데이트된 Vue3의 주요 기능들을 소개하는 글입니다.",
+			"url": "https://joshua1988.github.io/web-development/vuejs/vue3-coming/",
+			"date": "2020-10-06",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 31,
+			"title": "우테코에서 찾은 나만의 효과적인 공부법",
+			"summary": "우아한 테크 코스 2기 교육생들이 각자 새롭게 알게 된 개발 공부 방법을 공유한 글입니다. 각자가 생각하는 효과적인 공부법이 다양했는데, 그중 공감하는 내용도 있었고 앞으로 참고하면 좋을 마음가짐도 있어 재미있게 읽었습니다.",
+			"url": "https://woowabros.github.io/techcourse/2020/06/24/techcourse-level2-retrospection.html",
+			"date": "2020-10-07",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 32,
+			"title": "Node path.join() vs path.resolve()",
+			"summary": "Node의 path 모듈 중에서 여러 경로를 하나로 합쳐주는 join과 resolve에 대패 정리한 글입니다. webpack을 공부하면서 어디서는 join, 어디서는 resolve를 쓰길래 궁금해서 찾아봤는데 resolve만의 차이점이 있다는 것을 알 수 있었습니다.",
+			"url": "https://www.hanumoka.net/2018/11/08/node-20181108-node-path-join-vs-resolve/",
+			"date": "2020-10-08",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 33,
+			"title": "react-helmet의 동작 방식",
+			"summary": "react 컴포넌트인 react-helmet의 사용 방법과 쓰는 경우 등을 설명한 글입니다. 일정 컴포넌트에만 head를 변경할 일이 생겨 알아봤는데 잘 정리되어 있어 금방 적용할 수 있었습니다.",
+			"url": "https://jeonghwan-kim.github.io/dev/2020/08/15/react-helmet.html",
+			"date": "2020-10-09",
+			"tags": ["React"]
+		},
+		{
+			"id": 34,
+			"title": "Cookie SameSite 설정하기",
+			"summary": "Cookie Samesite에 대한 설명과 설정 방법에 대한 글입니다. 갑자기 쿠키 에러가 생겨서 뭔가 하고 찾아보니 새롭게 적용된 쿠키 정책으로 인해 생긴 이슈라는 사실을 알게 되었습니다.",
+			"url": "https://ifuwanna.tistory.com/223",
+			"date": "2020-10-10",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 35,
+			"title": "Node.js 웹 애플리케이션 프레임워크? express vs koa",
+			"summary": "Node.js 프레임워크인 express와 koa의 차이점에 대해 설명한 글입니다. express공부를 하다 koa라는 게 있다는 걸 알게 되었는데 정확히 어떤 차이가 있는지 알 수 있었습니다.",
+			"url": "https://velog.io/@noyo0123/express-vs-koa-qyk24lsozz",
+			"date": "2020-10-11",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 36,
+			"title": "(번역) 랜더링 성능을 향상 시키는 새로운 CSS 속성",
+			"summary": "8월에 새로 공개된 CSS 속성 content-visibility를 소개하는 글입니다. 렌더링 성능을 CSS 속성 만으로도 개선할 수 있다는 사실이 신기해서 재밌게 읽었습니다.",
+			"url": "https://wit.nts-corp.com/2020/09/11/6223",
+			"date": "2020-10-12",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 37,
+			"title": "Redis 기본 정리",
+			"summary": "redis에 대해 전반적으로 정리한 글입니다. 이번에 redis를 사용할 일이 생겨 읽게 되었는데 캐시서버를 구성하는 이유부터 redis의 구성요소까지 깔끔하게 정리되어 있어 도움이 되었습니다.",
+			"url": "https://brunch.co.kr/@jehovah/20",
+			"date": "2020-10-13",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 38,
+			"title": "디자이너가 갖춰야 할 소양, 코딩이나 글쓰기보다 심리학이 먼저다",
+			"summary": "UX를 고려할 때 왜 심리학을 알아야 하는지에 대해 설명한 글입니다. 개인적으로 UX에 대한 지식은 프론트엔드 개발하면서 종종 써먹을 일이 있어서 보곤 하는데 별 생각 없이 보던 UI에도 이렇게 세세한 배려가 숨어 있다는 걸 알게 된 것 같아 재미있게 읽었습니다.",
+			"url": "https://techit.kr/view/?no=20201012222026",
+			"date": "2020-10-14",
+			"tags": ["UI/UX"]
+		},
+		{
+			"id": 39,
+			"title": "주니어, 미드레벨과 시니어 개발자의 차이점",
+			"summary": "필자가 생각하는 주니어, 미드레벨과 시니어 개발자의 차이를 여러 항목으로 나누어 설명한 글입니다. 개인적으로 시니어로 넘어갈 수록 더 쉬운 코드를 작성한다는 내용이 인상깊었습니다.",
+			"url": "https://medium.com/@erwinousy/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%AF%B8%EB%93%9C%EB%A0%88%EB%B2%A8%EA%B3%BC-%EC%8B%9C%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-d29bffecfec",
+			"date": "2020-10-15",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 40,
+			"title": "스파게티 코드는 뭐고 옆그레이드는 또 뭐지? 개발자 용어 사전-3",
+			"summary": "개발자들이 자주 사용하는 용어들을 설명한 시리즈입니다. 알고 있는 단어도 있었고 모르는 단어도 있었는데 특히 인수와 매개변수의 차이점을 새롭게 알 수 있었습니다.",
+			"url": "https://techit.kr/view/?no=20201001121803",
+			"date": "2020-10-16",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 41,
+			"title": "나쁜 CSS 습관들",
+			"summary": "css 스타일링을 할 때 지양해야 할 습관들을 설명한 글입니다. 개인적으로 쓰던 습관들이 있어 뜨끔한 경우도 있었고, 평소에 공감하던 내용도 있어서 재미있게 읽었습니다.",
+			"url": "https://brunch.co.kr/@skykamja24/267",
+			"date": "2020-10-17",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 42,
+			"title": "성능 최적화",
+			"summary": "웹 애플리케이션 성능 최적화를 위한 방법들을 설명한 글입니다. 분량이 많아 렌더링 까지만 읽었는데 필요할 때 나머지도 차차 읽어볼 계획입니다.",
+			"url": "https://ui.toast.com/fe-guide/ko_PERFORMANCE/",
+			"date": "2020-10-18",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 43,
+			"title": "왜 우리는 Go와 TypeScript를 선택했는가",
+			"summary": "당근마켓에서 최근 Go와 Typescript 개발자를 채용하게 된 이유에 대해 설명한 글입니다. 저 또한 당근마켓은 루비로 개발한다고 알고 있었기에 궁금증을 해결할 수 있었습니다.",
+			"url": "https://medium.com/daangn/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-go%EC%99%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-3c08a4cf7ca8",
+			"date": "2020-10-19",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 44,
+			"title": "Noticon 프로젝트 리뷰",
+			"summary": "이번에 noticon이라는 서비스를 알게 되어서 찾아보던 중 개발하신 분의 블로그 글을 보게 되어 공유합니다. 노션에 사용하는 아이콘을 저장하는 서비스인데 저 또한 평소에 이모티콘을 자주 노션에 쓰는지라 만들게 된 계기부터 재미있게 읽었습니다.",
+			"url": "https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0",
+			"date": "2020-10-20",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 45,
+			"title": "새 버전에 맞게 git checkout 대신 switch/restore 사용하기",
+			"summary": "git에 새로 도입된 switch, restore에 대한 글입니다. 처음 들은 개념이라 낯설긴 한데 글을 읽고 나니 흥미가 생겨 다음에 기회가 되면 써볼 예정입니다.",
+			"url": "https://blog.outsider.ne.kr/1505",
+			"date": "2020-10-21",
+			"tags": ["GIT"]
+		},
+		{
+			"id": 46,
+			"title": "잘가, 클린 코드",
+			"summary": "필자의 경험을 바탕으로 클린 코드를 짜는 것에 대해 설명한 글입니다. 협업을 위한 코드와 순수하게 성능/추상화를 위한 코드의 차이점에 대해 생각해볼 수 있었던 글이었습니다.",
+			"url": "https://overreacted.io/ko/goodbye-clean-code/",
+			"date": "2020-10-22",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 47,
+			"title": "Node.js v15.0.0 is here!",
+			"summary": "이번에 새로 릴리즈된 Node.js v15에서 새롭게 추가된 기능들을 소개하는 글입니다. 아직 노드를 제대로 공부하지 않아서 전부 이해한 건 아니라 헷갈리는 개념들은 나중에 차차 배워볼 예정입니다.",
+			"url": "https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278",
+			"date": "2020-10-23",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 48,
+			"title": "useEffect 완벽 가이드",
+			"summary": "useEffect에 대해 아주 자세히 설명한 글입니다. 이번에 프로젝트를 하면서 useEffect에 대해 혼동이 와서 찾아본 글인데 도움이 되었습니다.",
+			"url": "https://overreacted.io/ko/a-complete-guide-to-useeffect/",
+			"date": "2020-10-24",
+			"tags": ["React"]
+		},
+		{
+			"id": 49,
+			"title": "JS스럽게 좋은 코드 쓰기 꿀팁",
+			"summary": "js의 문법들을 활용해서 더 깔끔한 코드를 짜는 법을 소개한 글입니다. 어떤 상황에서 js를 더 깔끔하게 작성할 수 있을지 알게 되어 재밌게 읽었습니다.",
+			"url": "https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81",
+			"date": "2020-10-25",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 50,
+			"title": "크롬 네이티브 레이지 로딩",
+			"summary": "크롬에서 자체 지원하는 네이티브 레이지 로딩에 대해 설명한 글입니다. 레이지 로딩에 대해서는 알고 있었는데 브라우저 단에서도 지원한다는 게 신기해서 흥미롭게 읽었습니다.",
+			"url": "https://meetup.toast.com/posts/183",
+			"date": "2020-10-26",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 51,
+			"title": "styled-components와 함께하는 오픈 소스 디버깅",
+			"summary": "styled component를 사용하며 생기는 문제들을 디버깅 과정을 통해 발견하는 글입니다. css-in-js를 적용하는 과정에서도 생각보다 깊은 이해가 필요하다는 사실을 알게 되었습니다.",
+			"url": "https://class101.dev/ko/blog/2020/10/24/hero",
+			"date": "2020-10-27",
+			"tags": ["React"]
+		},
+		{
+			"id": 52,
+			"title": "Async Cookie Store API 살펴보기",
+			"summary": "Chrome 버전 87에서 추가된 비동기 API cookie store에 대해 설명한 글입니다. 쿠키 정보를 받을 때 document.cookie 이외의 방법이 생긴 게 신기했고 또 사용 방법도 훨씬 간편해진 것 같아서 한 번 사용해 보고 싶었습니다.",
+			"url": "https://ui.toast.com/weekly-pick/ko_20201027?fbclid=IwAR0ET4wDZv49U4d4aP-QQ_TVHnob6tVhaM8eMaixsuiB1YmhayOhZ36bBgI",
+			"date": "2020-10-28",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 53,
+			"title": "우리는 코드 리뷰를 잘하고 있을까요?",
+			"summary": "필자가 생각하는 코드 리뷰의 필요성과 현재 회사에서 진행하고 있는 코드 리뷰 방식을 설명한 글입니다. 저 또한 회사에서 또는 개인 프로젝트를 하며 코드 리뷰를 하고 있는데 이번 포스팅을 통해 어떤 리뷰어, 작성자가 되어야 할 지 고민해볼 수 있었습니다.",
+			"url": "https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d",
+			"date": "2020-10-29",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 54,
+			"title": "#2 이 용어 뭔지 아세요? – 웹디자인 입문 강좌",
+			"summary": "웹 디자인에서 자주 사용하는 용어들을 정리한 글입니다. 사이드 프로젝트에서 디자인을 하면서 헷갈린 용어들이 있어 찾게 된 글인데 생각보다 깔끔하게 정리되어 있어서 궁금했던 점을 해결할 수 있었습니다.",
+			"url": "http://designbase.co.kr/webdesign-2/",
+			"date": "2020-10-30",
+			"tags": ["UI/UX"]
+		},
+		{
+			"id": 55,
+			"title": "Inheritance vs. Composition",
+			"summary": "OOP에서 자주 나오는 개념인 상속과 상속의 문제점을 보완하는 개념인 합성을 비교한 글입니다. 리액트 공식 문서에서 합성과 상속의 개념이 나와 찾다가 발견한 글인데 여러 비유를 들며 차이점을 설명해주고 있어 이해하는 데 도움이 되었습니다.",
+			"url": "https://medium.com/better-programming/inheritance-vs-composition-2fa0cdd2f939",
+			"date": "2020-10-31",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 56,
+			"title": "JavaScript's Memory Management Explained",
+			"summary": "자바스크립트의 메모리 관리 로직을 설명하고 메모리 누수를 피하기 위한 방법을 소개하는 글입니다. 자바스크립트를 쓰며 메모리에 대해서는 크게 생각해 본 적이 없었는데 어떤 원리로 가비지 콜렉션이 작동하는지, 그리고 메모리 누수를 방지하기 위해서는 어떤 코드가 좋은지 알아볼 수 있었습니다.",
+			"url": "https://felixgerschau.com/javascript-memory-management/",
+			"date": "2020-11-01",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 57,
+			"title": "Git Rebase 활용하기",
+			"summary": "git rebase의 정의와 작업 단계를 설명하는 글입니다. rebase에 대한 개념은 아직도 많이 헷갈리는데 이번 글을 읽고 조금 더 구체적으로 정리할 수 있었습니다.",
+			"url": "https://velog.io/@godori/Git-Rebase",
+			"date": "2020-11-02",
+			"tags": ["GIT"]
+		},
+		{
+			"id": 58,
+			"title": "마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩",
+			"summary": "마이리얼트립 사이트 성능 측정 방법과 함께 번들 사이즈를 줄이는 다양한 방법들 소개하는 글입니다. 직접 코드를 수정하는 일부터 이이미지 스프라이트처럼 코드 외적인 일까지 다양한 최적화 방법이 있다는 것을 알게 되었습니다.",
+			"url": "https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433",
+			"date": "2020-11-03",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 59,
+			"title": "What’s New in Webpack 5",
+			"summary": "새롭게 출시한 webpack5에서 주목할만한 변경사항들을 설명하는 글입니다.",
+			"url": "https://medium.com/frontend-digest/whats-new-in-webpack-5-ef619bb74fae",
+			"date": "2020-11-04",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 60,
+			"title": "게임 개발을 위해 알아야할 것들, 언리얼 vs 유니티",
+			"summary": "게임 개발과 관련한 qna와 게임 엔진 중 유명한 언리얼과 유니티를 소개하는 글입니다. 게임 관련해서는 전혀 알지 못했는데 가볍게나마 이해할 수 있었습니다.",
+			"url": "https://techit.kr/view/?no=20201031084019",
+			"date": "2020-11-05",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 61,
+			"title": "Typescript 핸드북 제네릭",
+			"summary": "typescript 한글화 핸드북 중에서 제네릭을 설명하는 글입니다. 이번에 제네릭을 이용하여 코드를 짤 일이 생겨서 찾아봤는데 확실히 한 번 써보고 나니 좋은 이유를 알 수 있었습니다.",
+			"url": "https://typescript-kr.github.io/pages/generics.html",
+			"date": "2020-11-06",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 62,
+			"title": "구직자에게 글쓰기는 왜 중요한가?",
+			"summary": "구직자에게 있어 글쓰기, 또는 글을 읽는 행동의 중요성을 설명하는 글입니다. 저 또한 취업 준비를 하는 과정에서 글의 소재를 발굴하고 쓰는 일의 중요성을 깨달았기에 공감가는 글이었습니다.",
+			"url": "https://medium.com/code-states/%EA%B5%AC%EC%A7%81%EC%9E%90%EC%97%90%EA%B2%8C-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-b64d3c1d031b",
+			"date": "2020-11-07",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 63,
+			"title": "가비지 컬렉션 - 모던 JavaScript 튜토리얼 - JavaScript.info",
+			"summary": "자바스크립트의 가비지 컬렉션에 대해 설명하는 튜토리얼 중 일부입니다. 자바스크립트에서는 메모리 관리에 대해 크게 신경쓰지 않아서 이제서야 알아보게 된 개념인데 재미있게 읽었습니다.",
+			"url": "https://ko.javascript.info/garbage-collection#ref-273",
+			"date": "2020-11-08",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 64,
+			"title": "깊은 복사와 얕은 복사에 대한 심도있는 이야기",
+			"summary": "자바스크립트에서 요소를 복사한다고 알려진 방법이 정말 깊은 복사가 가능한지에 대해 설명한 글입니다. 글에 나열된 복사 방식을 평소에 쓰고 있었는데 어떤 점에서 깊은 복사가 아니었는지 알 수 있었던 시간이었습니다.",
+			"url": "https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a",
+			"date": "2020-11-09",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 65,
+			"title": "읽기 좋은 코드를 위한 간단한 원칙",
+			"summary": "필자가 생각하는 나쁜 코드와 좋은 코드에 대해 설명한 글입니다. 개인적으로 나쁜 코드와 좋은 코드를 번갈아 보여주면서 더 이해하기 쉬웠던 것 같습니다.",
+			"url": "https://wergia.tistory.com/124",
+			"date": "2020-11-10",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 66,
+			"title": "7 Git tricks that changed my life",
+			"summary": "모르고 있었지만 알고 쓰면 윤택한 git 생활을 만들어줄 7가지 팁을 소개하는 글입니다. 잘 사용하면 정말 유용할 것 같은 커맨드가 많았고, 개인적으로 평소 깃 오타를 자주 치는지라 오타 자동 교정 커맨트가 제일 신기하고 다음에 써보고 싶었습니다.",
+			"url": "https://opensource.com/article/20/10/advanced-git-tips",
+			"date": "2020-11-11",
+			"tags": ["GIT"]
+		},
+		{
+			"id": 67,
+			"title": "[2020-11-11] 5년차 개발자",
+			"summary": "필자가 개발 경력이 5년차에 접어들며 있었던 경험들과, 그 경험을 통해 체득된 노하우 등을 공유한 글입니다. 우선 글 자체가 담백해 긴 분량 치고 금방 읽을 수 있었고, 인상 깊은 문장들도 많아서 재미있게 읽었습니다. 저 또한 앞으로 5년이 지났을 때 어떤 개발자가 되어 있을지 궁금해진 시간이었습니다.",
+			"url": "https://blog.kingbbode.com/51",
+			"date": "2020-11-12",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 68,
+			"title": "2.0 까지 해본 개발자",
+			"summary": "단순한 런칭이 아닌 2.0이라는 말 그대로 운영하고 개선하는 개발의 중요성에 대해 이야기하는 글입니다. 확실히 실무를 하면서 유지보수의 중요성을 느끼고 있어서 재미있게 읽었습니다.",
+			"url": "https://jojoldu.tistory.com/485",
+			"date": "2020-11-13",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 69,
+			"title": "일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까?",
+			"summary": "개발자가 어플리케이션 설계에 대한 고민 뿐만 아니라 비즈니스까지 고려해야 하는 이유에 대해 설명한 글입니다. 기술자이지만 동시에 일을 하는 입장에서 단순히 장인정신 하나에 치우치기 보다는 균형이 필요하다는 것을 알 수 있었습니다.",
+			"url": "https://evan-moon.github.io/2020/10/24/buisiness-with-programming/",
+			"date": "2020-11-14",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 70,
+			"title": "시각화 차트 종류 14 종: 한 눈에 들어오는 가치를 잡아주기",
+			"summary": "막대 그래프같이 익히 일고 있는 차트부터, 깔때기 도표같이 생소한 개념까지, 14 종류의 시각화 차트의 개념과 특징을 설명하는 글입니다. 자사 서비스 홍보 차 작성된 글인 것 같긴 한데, 그럼에도 각 차트 별 사용 시 어떤 점을 중요하게 고려해야 하는지 자세히 설명하고 있어 시각화 차트를 공부하는 데 도움이 되었습니다.",
+			"url": "https://www.finereport.com/kr/%EC%B0%A8%ED%8A%B8-%EC%A2%85%EB%A5%98-14-%EC%A2%85-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/?utm_campaign=1&utm_medium=facebook3&utm_source=media&utm_term=1",
+			"date": "2020-11-15",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 71,
+			"title": "IT 개발팀 조직문화 1년 후기(1)",
+			"summary": "필자가 1년 간 회사에서 팀장으로 지내며 만들고자 했던 팀 문화와 실제 도입 결과를 설명한 글입니다. 아직 팀장급이 될 일은 멀었지만 조직 문화를 이끌기 위해서는 다양한 고민이 필요하다는 사실을 알게 되었습니다.",
+			"url": "https://brunch.co.kr/@springboot/7",
+			"date": "2020-11-16",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 72,
+			"title": "10 Super Useful Tricks for JavaScript Developers",
+			"summary": "10가지 유용한 JavaScript 팁을 소개하는 글입니다. 비 구조화 할당처럼 이미 알고 있는 팁도 있었고, falsy한 값을 제거하기 위해 filter를 Boolean으로 설정하는 등의 신기한 팁도 있어서 재미있게 읽었습니다.",
+			"url": "https://blog.bitsrc.io/10-super-useful-tricks-for-javascript-developers-f1b76691199b",
+			"date": "2020-11-17",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 73,
+			"title": "내가 토이 프로젝트 경험을 공유하는 이유",
+			"summary": "필자가 토이 프로젝트 경험을 공유하는 이유를 설명한 글입니다.",
+			"url": "https://evan-moon.github.io/2020/06/20/the-importance-of-sharing/",
+			"date": "2020-11-18",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 74,
+			"title": "redux-saga를 간결하게 사용해보자!",
+			"summary": "redux를 간결하게 사용하기 위한 필자의 다양한 시도가 담긴 글입니다. 사가에 대해서는 아직도 감이 잘 안 잡히는 데 다양한 방식으로 코드를 고민할 수 있다는 걸 알 수 있었습니다.",
+			"url": "https://roy-jung.github.io/201111-concise-redux-saga/",
+			"date": "2020-11-19",
+			"tags": ["React"]
+		},
+		{
+			"id": 75,
+			"title": "[Reactjs] setState() 왜 비동기로 처리되는가?",
+			"summary": "react의 setState 메서드가 비동기로 처리되는 이유에 대해 설명한 글입니다. 이번에 useState의 비동기 처리 때문에 애를 먹어서 관련 이유를 찾다 발견한 글인데, 그렇게 된(?) 나름의 이유가 있다는 것을 알 수 있었습니다.",
+			"url": "https://dongmin-jang.medium.com/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a",
+			"date": "2020-11-20",
+			"tags": ["React"]
+		},
+		{
+			"id": 76,
+			"title": "자바스크립트는 어떻게 작동하는가: 이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지",
+			"summary": "자바스크립트의 이벤트 루프, 비동기 함수에 대해 설명하는 글입니다. 이벤트 루프를 공부하다가 찾게 된 글인데 자바스크립트의 이벤트 루프가 어떻게 동작하는 지, 그리고 비동기 구문을 깔끔하게 작성하는 법 등이 그림이랑 예제로 잘 설명되어 있어 쉽게 이해할 수 있었습니다.",
+			"url": "https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e",
+			"date": "2020-11-21",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 77,
+			"title": "Accessible and Beautiful Components with Chakra UI",
+			"summary": "React UI 프레임워크 중 Chakra UI에 대해 설명하는 글입니다. 이번에 처음 알게 된 프레임워크라 신기해서 읽어봤는데 실무에서 도전해보기엔 시간이 좀 걸릴 것 같습니다.",
+			"url": "https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f",
+			"date": "2020-11-22",
+			"tags": ["React"]
+		},
+		{
+			"id": 78,
+			"title": "6 Tips and Best Practices for a Scalable React Project",
+			"summary": "확장 가능한 리액트 프로젝트를 위한 6가지 팁을 소개하는 글입니다. 글을 읽으면서 유용한 툴이나 사이트도 새롭게 알 수 있었고, 어떤 식으로 코드를 발전시키면 좋을지 고민해볼 수 있었습니다.",
+			"url": "https://blog.bitsrc.io/best-practices-and-tips-for-a-scalable-react-application-db708ae49227",
+			"date": "2020-11-23",
+			"tags": ["React"]
+		},
+		{
+			"id": 79,
+			"title": "Configuring absolute paths in React for Web without ejecting",
+			"summary": "CRA 환경에서 eject없이 절대 경로를 설정하는 방법을 설명하는 글입니다. 토이 프로젝트에서 절대 경로를 설정해 줄 일이 생겨 찾아보다가 발견한 글인데 제일 깔끔하게 잘 설명하고 있어 도움이 되었습니다.",
+			"url": "https://dev.to/bybruno/configuring-absolute-paths-in-react-for-web-without-ejecting-en-us-52h6",
+			"date": "2020-11-24",
+			"tags": ["React"]
+		},
+		{
+			"id": 80,
+			"title": "누구나 원하는 개발자되기",
+			"summary": "개발자 면접을 진행하면서 필자가 개발자 채용에서 중요하다고 생각한 점, 그리고 갖추면 좋을 역량을 소개한 글입니다. 내가 잘 하는 사람이란 걸 어필하는 건 늘 중요하다고 인지하면서도 막상 어디서부터 가꾸어나가면 좋을지 고민이 많았는데, 이번 글을 통해 조금이나마 앞으로의 발전 방향을 잡을 수 있었습니다.",
+			"url": "https://blog.shiren.dev/2020-11-23/?fbclid=IwAR0S05w3CTcgfbKaBsUzB4wWnHGjkvQA4niXYnVOiIEWRtLcVX3fckbh4zA",
+			"date": "2020-11-25",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 81,
+			"title": "나만의 commit message 작성법",
+			"summary": "필자가 정한 커밋 메시지 작성법을 소개하는 글입니다. 작성할만한 이모지 부분에서 각 이모지별로 어떤 상황에서 쓰면 좋을지 상세하게 정리해주셔서 유용했습니다.",
+			"url": "https://kooku.netlify.app/etc/%EB%82%98%EB%A7%8C%EC%9D%98-commit-message-%EC%9E%91%EC%84%B1%EB%B2%95/",
+			"date": "2020-11-26",
+			"tags": ["GIT"]
+		},
+		{
+			"id": 82,
+			"title": "더 나은 UX를 위한 React에서 스켈레톤 컴포넌트 만들기",
+			"summary": "스켈레톤 컴포넌트를 만드는 방법을 설명하는 글입니다. 스켈레톤 컴포넌트는 항상 만들어봐야지 생각만 하고 개발에 급급해 넘겨버린 일이 많았는데 생각보다 그렇게 어렵지 않은 것 같아 다음에 시도해봐야겠다고 생각했습니다.",
+			"url": "https://ui.toast.com/weekly-pick/ko_20201110",
+			"date": "2020-11-27",
+			"tags": ["React"]
+		},
+		{
+			"id": 83,
+			"title": "10 NodeJs Things You Should Know & Master to be a Pro",
+			"summary": "백엔드 개발, 그 중에서도 Node.js를 처음 시작할 때 알면 좋을 개념들을 소개하는 글입니다. 마침 이번에 노드 공부를 시작할 기회가 생겨 재미있게 읽었습니다.",
+			"url": "https://medium.com/swlh/10-nodejs-things-you-should-know-master-to-be-a-pro-bdfdb5620c0b",
+			"date": "2020-11-28",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 84,
+			"title": "싱페어 (SPA) 의 피로감",
+			"summary": "필자의 SPA 개발 경험을 돌이키며 SPA의 문제점을 설명하는 글입니다. 아직 퍼포먼스나 비용과 관련해서는 크게 고민해보지 못한지라 이런 견해도 있구나 하고 생각했습니다.",
+			"url": "https://seokjun.kim/spa-is-aweful/",
+			"date": "2020-11-29",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 85,
+			"title": "이직하려는 친구에게 보내는 프런트엔드 개발 면접 질문",
+			"summary": "필자가 생각하기에 프론트엔드 면접에서 나올 것 같은 질문들을 정리한 글입니다. 아직 이직할 생각은 없지만 면접 질문을 보면서 내가 얼마나 이 직무에 대해 이해하고 있는지, 앞으로 어떤 부분을 공부하면 좋을지 생각해볼 수 있는 시간이 되었습니다.",
+			"url": "https://joshua1988.github.io/web-development/interview/frontend-questions/?fbclid=IwAR1L0JxbWD7gZJghKsXxP_KUJPq-ex-STLennYPBdyjB3urKiBgFEHR2Ggw",
+			"date": "2020-11-30",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 86,
+			"title": "React vs Vue vs Angular vs Svelte",
+			"summary": "현재 많이 언급되는 JavaScript 프론트엔드 프레임워크들을 비교한 글입니다. 인기도, 리소스, 성능, 학습 곡선, 사용 사례까지 5가지의 기준으로 비교했기 때문에 어떤 점에서는 어떤 프레임워크가 더 나은지 구체적으로 확인해볼 수 있었습니다.",
+			"url": "https://dev.to/hb/react-vs-vue-vs-angular-vs-svelte-1fdm?fbclid=IwAR13E7sGWP60tazSHGOTqRcwZ1AT5vdyVVYKYvui5czFx2OHtG3ll_ayCH0",
+			"date": "2020-12-01",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 87,
+			"title": "[KREW INSIDE] AI 서비스의 기술 문서를 책임지는 사람들",
+			"summary": "카카오에서 테크니컬 라이터로 일하고 계신 크루분의 인터뷰입니다. 평소에 관심 있던 직무라 주로 어떤 일을 하는지, 그리고 어떤 역량이 필요한지 알 수 있어서 재미있게 읽었습니다.",
+			"url": "https://tech-kakaoenterprise.tistory.com/69?fbclid=IwAR0btj68f3K6aNhJrEJ8zGp_nonTzWk4lmhTj5lEcCFTaz7zvpI97-QWRlE",
+			"date": "2020-12-02",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 88,
+			"title": "[Git] 간죽간살 git profile 꾸미기",
+			"summary": "git 프로필 화면을 꾸미는 방법을 설명한 글입니다. 뱃지 이외에도 capsule render처럼 아예 화면을 바꾸는 방법은 처음 봐서 생각보다 프로필 꾸미는 방법이 다양하다는 걸 알 수 있었습니다.",
+			"url": "https://velog.io/@new_wisdom/git-%EA%B0%84%EC%A3%BD%EA%B0%84%EC%82%B4-git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0",
+			"date": "2020-12-03",
+			"tags": ["Git"]
+		},
+		{
+			"id": 89,
+			"title": "JavaScript 타임라인 by WebStorm",
+			"summary": "WebStorm에서 제작한 JavaScript 역사에서 가장 주목할 순간을 기록한 타임라인입니다. 아티클이라고 말하기엔 애매하지만 타임라인으로 자바스크립트의 역사를 시각적으로 잘 표현했고, 생각보다 자바스크립트 생태계에서 다양한 변화가 있었다는 사실도 알 수 있었기에 공유합니다.",
+			"url": "https://www.jetbrains.com/ko-kr/lp/javascript-25/",
+			"date": "2020-12-04",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 90,
+			"title": "let과 const는 호이스팅 될까?]",
+			"summary": "let const가 실제로 호이스팅이 되지 않는지에 대해 알아보는 글입니다. 평소에 별 생각 없이 let과 const는 호이스팅이 되지 않는다고 외웠는데, 알고 보니 호이스팅은 되지만 TMZ 가 있기 때문에 참조 에러가 발생한다는 걸 알 수 있었습니다.",
+			"url": "https://medium.com/korbit-engineering/let%EA%B3%BC-const%EB%8A%94-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85-%EB%90%A0%EA%B9%8C-72fcf2fac365",
+			"date": "2020-12-05",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 91,
+			"title": "[JS] 자바스크립트의 The Execution Context (실행 컨텍스트) 와 Hoisting (호이스팅)",
+			"summary": "자바 스크립트의 실행 컨텍스트 개념을 설명한 글입니다. 이번에 스터디를 하면서 실행 컨텍스트에 대해 궁금증이 생겨서 알아봤는데, 생각보다 추상적인 개념이고 내용도 범위가 넓어서 조금 더 찬찬히 읽어봐야할 것 같습니다.",
+			"url": "https://velog.io/@imacoolgirlyo/JS-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-Hoisting-The-Execution-Context-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-6bjsmmlmgy",
+			"date": "2020-12-06",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 92,
+			"title": "ZET팀의 프런트엔드 개발자 성장 레벨",
+			"summary": "데이블의 프런트엔드 팀 ZET에서 기준으로 정한 성장 레벨을 소개하는 글입니다. 특정 회사에서 기준한 레벨이기에 정확하지 않을 수 있지만 그래도 제가 어느 정도 레벨이고, 전문성을 높이려면 어떤 역량을 더 키워야하는지 점검할 수 있어 유용하게 읽었습니다.",
+			"url": "https://www.notion.so/ZET-dbb9b6c1cb5d4c2da039a85b6b1dab20",
+			"date": "2020-12-07",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 93,
+			"title": "My Top Dev Tools in 2020",
+			"summary": "필자가 일상 업무에서 자주 사용하는 개발 툴을 소개하는 글입니다. vscode, slack 등 제가 자주 쓰는 툴도 중간에 있어서 반가웠고, 새로운 툴의 경우는 어떤 상황에서 쓰는지 새롭게 알 수 있었던 시간이었습니다.",
+			"url": "https://medium.com/swlh/my-top-dev-tools-in-2020-ec1fc8571dd3",
+			"date": "2020-12-08",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 94,
+			"title": "TDD는 기존 개발 방법론과 뭐가 다르지?",
+			"summary": "테스트 주도 개발의 개념 및 장단점, 그리고 기존 개발 방법론과의 차이점을 설명한 글입니다. 저처럼 TDD에 대해 모르는 사람들도 쉽게 이해할 수 있도록 깔끔하게 정리되어 있어서 이번 기회에 TDD가 어떤 개념인지 알 수 있었습니다.",
+			"url": "https://techit.kr/view/?no=20201128131042",
+			"date": "2020-12-09",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 95,
+			"title": "개발자가 맥북을 사용하는 이유",
+			"summary": "필자가 생각하는 맥 OS의 장점에 대해 설명한 글입니다. 저 또한 마침 맥을 사용한 지 1년 정도 되어 가는 상황이라 공감가는 부분이 많아 재미있게 읽었습니다.",
+			"url": "https://stricky.tistory.com/m/418",
+			"date": "2020-12-10",
+			"tags": ["ETC"]
+		},
+		{
+			"id": 96,
+			"title": "자바스크립트 개발자라면 알아야 할 33가지 개념 #6 함수와 블록 스코프 (번역)",
+			"summary": "자바스크립트의 함수, 블록 스코프를 정리한 글입니다. 이번에 자바스크립트 코어 개념을 공부하면서 헷갈렸던 부분인데 도움이 되었고, 특히 디버깅을 처음 알게 되어서 다음에 유용하게 사용할 것 같습니다.",
+			"url": "https://velog.io/@jakeseo_me/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-33%EA%B0%80%EC%A7%80-%EA%B0%9C%EB%85%90-6-%ED%95%A8%EC%88%98%EC%99%80-%EB%B8%94%EB%A1%9D-%EC%8A%A4%EC%BD%94%ED%94%84-%EB%B2%88%EC%97%AD-dijuhrub1x",
+			"date": "2020-12-11",
+			"tags": ["javaScript"]
+		},
+		{
+			"id": 97,
+			"title": "Writing Well",
+			"summary": "매력적인 글쓰는 방법을 소개하는 시리즈입니다. 인트로에서는 간단하게 글쓰기가 왜 필요한지, 그리고 이 시리즈에서 무엇을 배울 수 있는지 소개하고 있습니다. 블로그를 운영하면서 최근 소재에 대한 고갈이나 나에게 더 맞는 글쓰기 패턴을 고민하고 있었는데 도움이 될 것 같아 오늘부터 읽어볼 계획입니다.",
+			"url": "https://www.julian.com/guide/write/intro",
+			"date": "2020-12-12",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 98,
+			"title": "HTTP에서부터 WEBSOCKET까지",
+			"summary": "http의 발전 과정과 웹소켓의 탄생까지 흐름 및 특징들을 정리한 글입니다. 이번에 서버를 공부하면서 웹소켓에 대한 이야기가 나와 궁금했었는데 개념이랑 기존 나이브한 HTTP에 대한 비교가 잘 설명되어 있어 궁금증을 해소할 수 있었습니다.",
+			"url": "https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788",
+			"date": "2020-12-13",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 99,
+			"title": "본문 : 상호작용(Interactive) 요소 - DETAILS, SUMMARY, MENU, COMMAND",
+			"summary": "HTML5에서 추가된 요소들 중 사용자들과 상호작용이 가능한 요소들을 소개하는 글입니다. 이번에 Details 태그를 처음 알게 되어 찾아보다가 발견하게 된 글인데 이외에도 command, menu 등 유용한 요소들을 새롭게 알 수 있었습니다.",
+			"url": "https://webdir.tistory.com/321",
+			"date": "2020-12-14",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 100,
+			"title": "그 때 성장이라고 생각했던 것들",
+			"summary": "개발자들 사이에 자기계발이라고 언급되는 다섯 가지 활동들에 대해 설명하고, 이런 활동들을 맹목적으로 실행할 경우의 문제점을 소개하는 글입니다. 이번에 참여한 기술 아티클 읽기 또한 중간에 제대로 이해하지 못하고 넘긴 내용들도 있어 글을 읽으며 많이 공감했습니다. 따라서 이번 프로젝트 100 성공에 만족하지 않고 온전히 제 루틴으로 자리 잡을 때까지 노력할 예정입니다.",
+			"url": "https://jbee.io/essay/growth-mistaken-2020/",
+			"date": "2020-12-15",
+			"tags": ["자기계발"]
 		}
 	]
 }
