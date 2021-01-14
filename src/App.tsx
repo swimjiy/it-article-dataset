@@ -32,7 +32,7 @@ const App: React.FC = () => {
     <div className={classes.root}>
       <CssBaseline />
       <Container maxWidth="lg" className={classes.container}>
-        <Typography variant="h5" gutterBottom>기술 아티클 모음</Typography>
+        <Typography variant="h5" gutterBottom>기술 아티클 모음 📚</Typography>
         <Typography variant="body2" paragraph color="textSecondary">내가 읽으려고 만든 기술 아티클 모음</Typography>
         <TableComponent />
       </Container>
