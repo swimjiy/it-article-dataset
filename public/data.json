@@ -799,6 +799,14 @@
 			"url": "https://jbee.io/essay/growth-mistaken-2020/",
 			"date": "2020-12-15",
 			"tags": ["자기계발"]
+		},
+		{
+			"id": 101,
+			"title": "하루 아침에 코드가 꼴도 보기 싫어졌다 : 개발자 번아웃",
+			"summary": "번아웃을 정의하고 해결하기 위한 방법을 소개한 글입니다.",
+			"url": "https://geonlee.tistory.com/184",
+			"date": "2021-01-15",
+			"tags": ["자기계발"]
 		}
 	]
 }
