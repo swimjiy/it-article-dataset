@@ -810,11 +810,11 @@
 		},
 		{
 			"id": 102,
-			"title": "하루 아침에 코드가 꼴도 보기 싫어졌다 : 개발자 번아웃",
-			"summary": "개발자들에게 올 수 있는 번아웃을 소개하고 이를 해결하기 위한 방법을 소개한 글입니다.",
-			"url": "https://geonlee.tistory.com/184",
-			"date": "2021-01-15",
-			"tags": ["자기계발"]
+			"title": "State of JavaScript 2020",
+			"summary": "2020년 자바스크립트들 둘러싼 이슈들과 설문 결과를 소개하는 사이트입니다.",
+			"url": "https://2020.stateofjs.com/ko-KR/",
+			"date": "2021-01-19",
+			"tags": ["javaScript"]
 		}
 	]
 }
