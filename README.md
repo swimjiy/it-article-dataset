@@ -17,6 +17,6 @@
 
 ### 💻 Start
 ```
-npm i
+npm install or npm ci
 npm start
 ```
