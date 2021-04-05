@@ -839,6 +839,22 @@
 			"url": "https://blog.lael.be/post/61",
 			"date": "2021-01-22",
 			"tags": ["WEB"]
+		},
+		{
+			"id": 105,
+			"title": "URL과 URI의 의미와 차이점 (Difference between URL & URI)",
+			"summary": "URL과 URI가 각각 어떤 의미를 가지고 있고 어떤 차이가 있는지 설명하는 글입니다. 예전부터 URI라는 용어를 볼 때마다 URL과 무엇이 다른지 궁금했었는데 URI가 더 상위 개념이라는 사실을 새롭게 알 수 있었습니다.",
+			"url": "https://blog.lael.be/post/61",
+			"date": "2021-01-22",
+			"tags": ["WEB"]
+		},
+		{
+			"id": 106,
+			"title": "효율적인 프런트엔드 에러 핸들링",
+			"summary": "효율적인 에러 핸들링에 대해 설명하는 글입니다.",
+			"url": "https://jbee.io/react/error-declarative-handling-0/",
+			"date": "2021-04-05",
+			"tags": ["WEB"]
 		}
 	]
 }
