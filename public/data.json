@@ -841,7 +841,7 @@
 			"tags": ["WEB"]
 		},
 		{
-			"id": 105,
+			"id": 106,
 			"title": "URL과 URI의 의미와 차이점 (Difference between URL & URI)",
 			"summary": "URL과 URI가 각각 어떤 의미를 가지고 있고 어떤 차이가 있는지 설명하는 글입니다. 예전부터 URI라는 용어를 볼 때마다 URL과 무엇이 다른지 궁금했었는데 URI가 더 상위 개념이라는 사실을 새롭게 알 수 있었습니다.",
 			"url": "https://blog.lael.be/post/61",
@@ -849,12 +849,20 @@
 			"tags": ["WEB"]
 		},
 		{
-			"id": 106,
+			"id": 107,
 			"title": "효율적인 프런트엔드 에러 핸들링",
 			"summary": "효율적인 에러 핸들링에 대해 설명하는 글입니다.",
 			"url": "https://jbee.io/react/error-declarative-handling-0/",
 			"date": "2021-04-05",
 			"tags": ["WEB"]
+		},
+		{
+			"id": 108,
+			"title": "구글, 애플에 있는 UX 엔지니어가 토스에 있는 이유",
+			"summary": "UX 엔지니어가 하는 일, 특히 토스에서 어떤 업무를 하는 지 소개하는 글입니다. UX 엔지니어란 직군 자체가 생소하게 느껴져서 읽게 되었는데 더 좋은 사용자 경험을 위해 고민한다는 점이 인상 깊었습니다.",
+			"url": "https://blog.toss.im/2021/04/06/tossteam/insight/ux-engineer-interview/",
+			"date": "2021-04-07",
+			"tags": ["ETC"]
 		}
 	]
 }
