@@ -871,6 +871,14 @@
 			"url": "https://taegon.kim/archives/10292",
 			"date": "2021-04-12",
 			"tags": ["자기계발"]
+		},
+		{
+			"id": 110,
+			"title": "Node.js에 관한 10가지 후회 - 라이언 달과 Deno.js",
+			"summary": "Node.js 개발자 라이언 달이 직접 얘기한 Node.js를 만들며 후회한 점을 정리한 글입니다.",
+			"url": "https://kingofbackend.tistory.com/112",
+			"date": "2021-04-13",
+			"tags": ["javaScript"]
 		}
 	]
 }
