@@ -879,6 +879,14 @@
 			"url": "https://kingofbackend.tistory.com/112",
 			"date": "2021-04-13",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 110,
+			"title": "내 포트폴리오가 서류탈락인 이유",
+			"summary": "개발자 취업 지원을 할 때 포트폴리오와 관련해서 자주 하는 착각, 그리고 이를 해결할 방법을 소개하는 글입니다.",
+			"url": "https://cafe.naver.com/pseudodev/25",
+			"date": "2021-04-14",
+			"tags": ["자기계발"]
 		}
 	]
 }
