@@ -881,11 +881,19 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 110,
+			"id": 111,
 			"title": "내 포트폴리오가 서류탈락인 이유",
 			"summary": "개발자 취업 지원을 할 때 포트폴리오와 관련해서 자주 하는 착각, 그리고 이를 해결할 방법을 소개하는 글입니다.",
 			"url": "https://cafe.naver.com/pseudodev/25",
 			"date": "2021-04-14",
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 112,
+			"title": "OKR을 제대로 작성하고 사용하는 방법,",
+			"summary": "효과적인 OKR 작성을 위해 OKR의 핵심 요소인 Objective, Key Results, Initiative의 개념을 명확히 분리하고 어떤 식으로 각 요소를 정의하면 좋을지 설명하는 글입니다.",
+			"url": "https://brunch.co.kr/@tanagement/183",
+			"date": "2021-04-15",
 			"tags": ["자기계발"]
 		}
 	]
