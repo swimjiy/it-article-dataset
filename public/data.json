@@ -842,14 +842,6 @@
 		},
 		{
 			"id": 106,
-			"title": "URL과 URI의 의미와 차이점 (Difference between URL & URI)",
-			"summary": "URL과 URI가 각각 어떤 의미를 가지고 있고 어떤 차이가 있는지 설명하는 글입니다. 예전부터 URI라는 용어를 볼 때마다 URL과 무엇이 다른지 궁금했었는데 URI가 더 상위 개념이라는 사실을 새롭게 알 수 있었습니다.",
-			"url": "https://blog.lael.be/post/61",
-			"date": "2021-01-22",
-			"tags": ["WEB"]
-		},
-		{
-			"id": 107,
 			"title": "효율적인 프런트엔드 에러 핸들링",
 			"summary": "효율적인 에러 핸들링에 대해 설명하는 글입니다.",
 			"url": "https://jbee.io/react/error-declarative-handling-0/",
@@ -857,7 +849,7 @@
 			"tags": ["WEB"]
 		},
 		{
-			"id": 108,
+			"id": 107,
 			"title": "구글, 애플에 있는 UX 엔지니어가 토스에 있는 이유",
 			"summary": "UX 엔지니어가 하는 일, 특히 토스에서 어떤 업무를 하는 지 소개하는 글입니다. UX 엔지니어란 직군 자체가 생소하게 느껴져서 읽게 되었는데 더 좋은 사용자 경험을 위해 고민한다는 점이 인상 깊었습니다.",
 			"url": "https://blog.toss.im/2021/04/06/tossteam/insight/ux-engineer-interview/",
@@ -865,7 +857,7 @@
 			"tags": ["ETC"]
 		},
 		{
-			"id": 109,
+			"id": 108,
 			"title": "개발자 부업, 어디까지 해봤니?",
 			"summary": "필자의 개발자 20년차의 부업 역사를 설명한 글입니다. 개발자 부업이라곤 저술이나 외주 정도로 생각하고 있었는데 생각보다 다양한 분야가 있음을 알 수 있었습니다.",
 			"url": "https://taegon.kim/archives/10292",
@@ -873,7 +865,7 @@
 			"tags": ["자기계발"]
 		},
 		{
-			"id": 110,
+			"id": 109,
 			"title": "Node.js에 관한 10가지 후회 - 라이언 달과 Deno.js",
 			"summary": "Node.js 개발자 라이언 달이 직접 얘기한 Node.js를 만들며 후회한 점을 정리한 글입니다.",
 			"url": "https://kingofbackend.tistory.com/112",
@@ -881,7 +873,7 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 111,
+			"id": 110,
 			"title": "내 포트폴리오가 서류탈락인 이유",
 			"summary": "개발자 취업 지원을 할 때 포트폴리오와 관련해서 자주 하는 착각, 그리고 이를 해결할 방법을 소개하는 글입니다.",
 			"url": "https://cafe.naver.com/pseudodev/25",
@@ -889,12 +881,20 @@
 			"tags": ["자기계발"]
 		},
 		{
-			"id": 112,
+			"id": 111,
 			"title": "OKR을 제대로 작성하고 사용하는 방법,",
 			"summary": "효과적인 OKR 작성을 위해 OKR의 핵심 요소인 Objective, Key Results, Initiative의 개념을 명확히 분리하고 어떤 식으로 각 요소를 정의하면 좋을지 설명하는 글입니다.",
 			"url": "https://brunch.co.kr/@tanagement/183",
 			"date": "2021-04-15",
 			"tags": ["자기계발"]
+		},
+		{
+			"id": 112,
+			"title": "Container 컴포넌트와 Presentational 컴포넌트",
+			"summary": "리액트에서 컴포넌트를 분류하는 기준 중 container 컴포넌트와 presentational 컴포넌트에 대해 설명하는 글입니다. 비즈니스 로직과 화면을 그리는 기능을 분리하여 유지보수에 쉽게 한다는 점이 신기했습니다.",
+			"url": "https://jeffgukang.github.io/react-native-tutorial/docs/state-tutorial/redux-tutorial/04-container-and-presentational/container-and-presentational-kr.html",
+			"date": "2021-04-16",
+			"tags": ["javaScript"]
 		}
 	]
 }
