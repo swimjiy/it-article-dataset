@@ -895,6 +895,14 @@
 			"url": "https://jeffgukang.github.io/react-native-tutorial/docs/state-tutorial/redux-tutorial/04-container-and-presentational/container-and-presentational-kr.html",
 			"date": "2021-04-16",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 113,
+			"title": "실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가?",
+			"summary": "엔지니어링 매니저의 정의와 회사에서 기대하는 역할, 그리고 엔지니어링 매니저의 커리어 패스 등을 이야기하는 글입니다.",
+			"url": "https://sendbird.com/ko/blog/eng-leader-role-1",
+			"date": "2021-04-21",
+			"tags": ["ETC"]
 		}
 	]
 }
