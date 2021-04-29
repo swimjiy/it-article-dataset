@@ -902,7 +902,7 @@
 			"summary": "엔지니어링 매니저의 정의와 회사에서 기대하는 역할, 그리고 엔지니어링 매니저의 커리어 패스 등을 이야기하는 글입니다.",
 			"url": "https://sendbird.com/ko/blog/eng-leader-role-1",
 			"date": "2021-04-21",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 114,
@@ -919,6 +919,14 @@
 			"url": "https://woowabros.github.io/experience/2021/04/18/autopsy.html",
 			"date": "2021-04-27",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 116,
+			"title": "기술문서 쉽게 쓰기 지침 #테크니컬라이터 #언어정책",
+			"summary": "국내외 쉬운 언어 정책을 소개하고 이를 기술 문서 작업에 어떻게 녹일 수 있을지 설명하는 글입니다. 블로그를 쓸 때에도 참고하면 좋을 지침들이 있어 유용하게 읽었습니다.",
+			"url": "https://tech-kakaoenterprise.tistory.com/105?fbclid=IwAR0Ej4oSS4FLDxKcmChwe3xyZPKzHJ4xVga82Ht9DKkCfSIiEqc26wr7ej8",
+			"date": "2021-04-29",
+			"tags": ["자기계발"]
 		}
 	]
 }
