@@ -955,9 +955,9 @@
 		{
 			"id": 120,
 			"title": "node_modules로부터 우리를 구원해 줄 Yarn Berry",
-			"summary": "새로운 패키지 관리 시스템 Yarn Berry을 소개하는 포스팅",
+			"summary": "토스에서 새로운 패키지 관리 시스템 Yarn Berry을 도입하게 된 배경과 장점을 소개하는 글입니다.",
 			"url": "https://toss.tech/article/node-modules-and-yarn-berry",
-			"date": "2021-05-12",
+			"date": "2021-05-22",
 			"tags": ["javaScript"]
 		}
 	]
