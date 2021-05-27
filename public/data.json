@@ -959,6 +959,14 @@
 			"url": "https://toss.tech/article/node-modules-and-yarn-berry",
 			"date": "2021-05-22",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 121,
+			"title": "손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)",
+			"summary": "개발 장비에 대한 간단한 리뷰와 개발자에게 손목 건강의 중요성을 이야기하는 글입니다.",
+			"url": "https://world.hey.com/bach/post-cadaa79b",
+			"date": "2021-05-27",
+			"tags": ["ETC"]
 		}
 	]
 }
