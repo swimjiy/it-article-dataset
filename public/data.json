@@ -983,6 +983,14 @@
 			"url": "https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad",
 			"date": "2021-06-06",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 124,
+			"title": "프레임워크의 선택, React vs Angular",
+			"summary": "필자가 새 프로젝트 개발을 시작하며 프레임워크를 정할 때 어떤 점을 고려했는지 소개하는 글입니다. 여태 생각 없이 리액트를 쓰고 있었는데 이번 포스팅을 통해 각 프레임워크의 차이와 장단점을 알 수 있었습니다.",
+			"url": "https://tech.kakaoenterprise.com/109",
+			"date": "2021-06-07",
+			"tags": ["React"]
 		}
 	]
 }
