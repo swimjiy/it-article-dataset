@@ -991,6 +991,14 @@
 			"url": "https://tech.kakaoenterprise.com/109",
 			"date": "2021-06-07",
 			"tags": ["React"]
+		},
+		{
+			"id": 125,
+			"title": "리액트 useEffect: 개발자가 알아야 할 네가지 팁",
+			"summary": "리액트 훅의 useEffect를 사용할 때 알아야 할 네 가지를 소개하는 글입니다. 개인적으로 조건부 사용법은 원래 쓰고 있던 방법이었지만 한 번 더 중요성을 인지할 수 있었습니다.",
+			"url": "https://ui.toast.com/weekly-pick/ko_20200916",
+			"date": "2021-06-07",
+			"tags": ["React"]
 		}
 	]
 }
