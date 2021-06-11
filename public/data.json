@@ -1003,10 +1003,10 @@
 		{
 			"id": 126,
 			"title": "쿠키(Cookie)와 세션(Session)",
-			"summary": "쿠키(Cookie)와 세션(Session)",
+			"summary": "웹에서 쿠키와 세션을 사용하게 된 배경, 그리고 그 특징과 차이에 대해 설명한 글입니다.",
 			"url": "https://junhyunny.github.io/information/cookie-and-session/",
 			"date": "2021-06-11",
-			"tags": ["React"]
+			"tags": ["WEB"]
 		}
 	]
 }
