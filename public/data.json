@@ -1015,6 +1015,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/771/",
 			"date": "2021-06-20",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 128,
+			"title": "HTTP/3는 왜 UDP를 선택한 것일까?",
+			"summary": "HTTP/3에서 TCP가 아닌 UDP를 사용하게 된 이유와 UDP를 사용함으로써 얻는 이점에 대해 설명한 글입니다.",
+			"url": "https://evan-moon.github.io/2019/10/08/what-is-http3/",
+			"date": "2021-06-21",
+			"tags": ["WEB"]
 		}
 	]
 }
