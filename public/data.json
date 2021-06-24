@@ -1023,6 +1023,14 @@
 			"url": "https://evan-moon.github.io/2019/10/08/what-is-http3/",
 			"date": "2021-06-21",
 			"tags": ["WEB"]
+		},
+		{
+			"id": 129,
+			"title": "'-하기'형, 버튼이 왜 이래",
+			"summary": "서비스에서 버튼의 문구를 ~하기로 쓰는 이유에 대해 설명하고 이를 지양해야 하는 이유에 대해 정리한 글입니다.",
+			"url": "https://brunch.co.kr/@joojun",
+			"date": "2021-06-24",
+			"tags": ["ETC"]
 		}
 	]
 }
