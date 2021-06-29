@@ -1031,6 +1031,14 @@
 			"url": "https://brunch.co.kr/@joojun",
 			"date": "2021-06-24",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 130,
+			"title": "Loading Google Fonts and any other web fonts as fast as possible in early 2021",
+			"summary": "앞으로 구글 폰트를 사용할 경우 스니펫을 어떻게 작성해야 하는지에 대해 설명하는 글입니다. 최근에 구글 폰트를 쓸 일이 있어 봤는데 작성하는 코드가 달라져서 찾아보게 된 글입니다.",
+			"url": "https://dev.to/masakudamatsu/loading-google-fonts-and-any-other-web-fonts-as-fast-as-possible-in-early-2021-4f5o",
+			"date": "2021-06-29",
+			"tags": ["ETC"]
 		}
 	]
 }
