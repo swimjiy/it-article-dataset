@@ -1039,6 +1039,14 @@
 			"url": "https://dev.to/masakudamatsu/loading-google-fonts-and-any-other-web-fonts-as-fast-as-possible-in-early-2021-4f5o",
 			"date": "2021-06-29",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 130,
+			"title": "프론트엔드 테스트의 모든 것",
+			"summary": "프론트 테스트의 유형과 종류, 그리고 자주 사용하는 용어까지 정리된 글입니다. 프론트 테스트는 어디서부터 시작할 지 감이 안잡혔는데 덕분에 조금이나마 이해할 수 있었습니다.",
+			"url": "https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d",
+			"date": "2021-07-01",
+			"tags": ["ETC"]
 		}
 	]
 }
