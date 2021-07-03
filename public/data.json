@@ -1047,6 +1047,14 @@
 			"url": "https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d",
 			"date": "2021-07-01",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 131,
+			"title": "제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인",
+			"summary": "Chart.js와 vue를 이용해 데이터 시각화를 한 방법을 소개하는 글입니다. 설명이 깔끔하게 정리되어 쉽게 이해할 수 있었고 최근에 D3.js를 이용해 시각화를 해볼 때 고충을 겪었던지라 다음에 Chart.js를 도입해 보면 좋겠다고 생각했습니다.",
+			"url": "https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html",
+			"date": "2021-07-01",
+			"tags": ["javaScript"]
 		}
 	]
 }
