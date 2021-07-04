@@ -4,6 +4,9 @@
   "description": "A collection of it articles i've read",
   "main": "index.js",
   "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "npx nodemon index.ts",
+    "dev:client": "webpack-dev-server --open",
     "build": "webpack --mode production --config webpack.config.js",
     "start": "webpack-dev-server --open",
     "lint": "eslint --ext .ts,.tsx src/",
@@ -27,6 +30,7 @@
     "@babel/preset-react": "^7.10.4",
     "@babel/preset-typescript": "^7.10.4",
     "@material-ui/data-grid": "^4.0.0-alpha.13",
+    "@types/express": "^4.17.12",
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
     "@typescript-eslint/eslint-plugin": "^4.2.0",
@@ -58,6 +62,9 @@
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
+    "@notionhq/client": "^0.2.1",
+    "concurrently": "^6.2.0",
+    "express": "^4.17.1",
     "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
