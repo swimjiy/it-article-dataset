@@ -558,7 +558,7 @@
 			"summary": "막대 그래프같이 익히 일고 있는 차트부터, 깔때기 도표같이 생소한 개념까지, 14 종류의 시각화 차트의 개념과 특징을 설명하는 글입니다. 자사 서비스 홍보 차 작성된 글인 것 같긴 한데, 그럼에도 각 차트 별 사용 시 어떤 점을 중요하게 고려해야 하는지 자세히 설명하고 있어 시각화 차트를 공부하는 데 도움이 되었습니다.",
 			"url": "https://www.finereport.com/kr/%EC%B0%A8%ED%8A%B8-%EC%A2%85%EB%A5%98-14-%EC%A2%85-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/?utm_campaign=1&utm_medium=facebook3&utm_source=media&utm_term=1",
 			"date": "2020-11-15",
-			"tags": ["ETC"]
+			"tags": ["UI/UX"]
 		},
 		{
 			"id": 71,
@@ -1078,7 +1078,7 @@
 			"summary": "뉴모피즘, 글래스모피증을 생성하고 간단하게 css를 export할 수 있는 툴을 소개하는 글입니다. 기능이 단순함에도 유용하게 쓰일 수 있는 툴인 것 같아 다음에 이런 제너레이터를 만들어보고 싶다는 생각이 들었습니다.",
 			"url": "http://icunow.co.kr/toolbox/",
 			"date": "2021-07-17",
-			"tags": ["WEB"]
+			"tags": ["UI/UX"]
 		}
 	]
 }
