@@ -1079,6 +1079,14 @@
 			"url": "http://icunow.co.kr/toolbox/",
 			"date": "2021-07-17",
 			"tags": ["UI/UX"]
+		},
+		{
+			"id": 135,
+			"title": "누가 자바스크립트를 파괴할 수 있을까?",
+			"summary": "Glue Language로 시작한 자바스크립트가 어떻게 지금의 자리에 올 수 있었는지, 그리고 앞으로 자바스크립트를 대체할만한 언어가 나올 수 있을지 필자의 생각을 정리한 글입니다. 자바스크립트가 어떤 이유로 흥행(?)에 성공했는지 알 수 있어 재미있게 읽었습니다.",
+			"url": "https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155",
+			"date": "2021-07-19",
+			"tags": ["javaScript"]
 		}
 	]
 }
