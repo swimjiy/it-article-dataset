@@ -1087,6 +1087,14 @@
 			"url": "https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155",
 			"date": "2021-07-19",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 136,
+			"title": "올해 버려야 할 타입스크립트 나쁜 버릇 10가지",
+			"summary": "타입 스크립트를 사용하며 버려야 할 나쁜 버릇에 대해 소개하고 좋은 코드로 작성하는 방법을 설명하는 글입니다. 일을 하며 무심코 쓰고 있던 코드에 대해 다시 생각해 볼 계기가 되었습니다.",
+			"url": "https://ui.toast.com/weekly-pick/ko_20210217",
+			"date": "2021-07-20",
+			"tags": ["javaScript"]
 		}
 	]
 }
