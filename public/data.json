@@ -1095,6 +1095,14 @@
 			"url": "https://ui.toast.com/weekly-pick/ko_20210217",
 			"date": "2021-07-20",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 137,
+			"title": "2021년의 UI 디자인 트렌드 가이드",
+			"summary": "2021년의 UI 디자인 트렌드 가이드",
+			"url": "https://yozm.wishket.com/magazine/detail/347/",
+			"date": "2021-07-21",
+			"tags": ["UI/UX"]
 		}
 	]
 }
