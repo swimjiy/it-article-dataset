@@ -12,6 +12,7 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import TableSortLabel from '@material-ui/core/TableSortLabel';
 
+import { COLORS } from './metaColors';
 import { data } from '../public/data.json';
 
 const useStyles = makeStyles((theme) => ({
@@ -26,37 +27,6 @@ const useStyles = makeStyles((theme) => ({
     background: '#F9FAFB',
   },
 }));
-
-const COLORS = [
-  {
-    name: 'javaScript',
-    color: '7366FF',
-  },
-  {
-    name: 'WEB',
-    color: 'EE4D5F',
-  },
-  {
-    name: '자기계발',
-    color: '00B8BA',
-  },
-  {
-    name: 'ETC',
-    color: 'CCC',
-  },
-  {
-    name: 'UI/UX',
-    color: 'FF9897',
-  },
-  {
-    name: 'React',
-    color: '6EE2F5',
-  },
-  {
-    name: 'Front-end',
-    color: 'EDECAB',
-  },
-];
 
 type Order = 'asc' | 'desc';
 
