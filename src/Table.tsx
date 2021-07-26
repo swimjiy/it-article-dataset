@@ -52,6 +52,10 @@ const COLORS = [
     name: 'React',
     color: '6EE2F5',
   },
+  {
+    name: 'Front-end',
+    color: 'EDECAB',
+  },
 ];
 
 type Order = 'asc' | 'desc';
