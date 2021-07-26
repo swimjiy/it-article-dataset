@@ -1049,7 +1049,7 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 131,
+			"id": 132,
 			"title": "제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인",
 			"summary": "Chart.js와 vue를 이용해 데이터 시각화를 한 방법을 소개하는 글입니다. 설명이 깔끔하게 정리되어 쉽게 이해할 수 있었고 최근에 D3.js를 이용해 시각화를 해볼 때 고충을 겪었던지라 다음에 Chart.js를 도입해 보면 좋겠다고 생각했습니다.",
 			"url": "https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html",
@@ -1057,7 +1057,7 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 132,
+			"id": 133,
 			"title": "자바스크립트와 V8 엔진의 메모리 관리 프로세스",
 			"summary": "자바스크립트의 메모리 관리 프로세스를 설명한 글입니다. 사실 자바스크립트에서 메모리 누수에 대해 신경써 본 적은 거의 없었는데 이번에 글을 읽으며 관리의 필요성을 느낄 수 있었습니다.",
 			"url": "https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1",
@@ -1065,7 +1065,7 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 133,
+			"id": 134,
 			"title": "29CM 로그 수집 시스템 소개",
 			"summary": "29CM이 신규 구축한 로그 시스템을 소개하는 글입니다. 요즘 환경 설정에 대해서도 알아볼 필요성을 느끼고 있었는데 잘 정리되어 좀 더 쉽게 이해할 수 있었습니다.",
 			"url": "https://medium.com/29cm/29cm-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-e7955d7deec6",
@@ -1073,7 +1073,7 @@
 			"tags": ["ETC"]
 		},
 		{
-			"id": 134,
+			"id": 135,
 			"title": "뉴모피즘, 글래스모피즘을 쉽게 생성할 수 있는 웹서비스 : Toolbox",
 			"summary": "뉴모피즘, 글래스모피증을 생성하고 간단하게 css를 export할 수 있는 툴을 소개하는 글입니다. 기능이 단순함에도 유용하게 쓰일 수 있는 툴인 것 같아 다음에 이런 제너레이터를 만들어보고 싶다는 생각이 들었습니다.",
 			"url": "http://icunow.co.kr/toolbox/",
@@ -1081,7 +1081,7 @@
 			"tags": ["UI/UX"]
 		},
 		{
-			"id": 135,
+			"id": 136,
 			"title": "누가 자바스크립트를 파괴할 수 있을까?",
 			"summary": "Glue Language로 시작한 자바스크립트가 어떻게 지금의 자리에 올 수 있었는지, 그리고 앞으로 자바스크립트를 대체할만한 언어가 나올 수 있을지 필자의 생각을 정리한 글입니다. 자바스크립트가 어떤 이유로 흥행(?)에 성공했는지 알 수 있어 재미있게 읽었습니다.",
 			"url": "https://pawsong.medium.com/%EB%88%84%EA%B0%80-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%ED%8C%8C%EA%B4%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-bf22cab6d155",
@@ -1089,7 +1089,7 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 136,
+			"id": 137,
 			"title": "올해 버려야 할 타입스크립트 나쁜 버릇 10가지",
 			"summary": "타입 스크립트를 사용하며 버려야 할 나쁜 버릇에 대해 소개하고 좋은 코드로 작성하는 방법을 설명하는 글입니다. 일을 하며 무심코 쓰고 있던 코드에 대해 다시 생각해 볼 계기가 되었습니다.",
 			"url": "https://ui.toast.com/weekly-pick/ko_20210217",
@@ -1097,7 +1097,7 @@
 			"tags": ["javaScript"]
 		},
 		{
-			"id": 137,
+			"id": 138,
 			"title": "2021년의 UI 디자인 트렌드 가이드",
 			"summary": "2021년의 UI 디자인 트렌드 가이드를 소개하는 글입니다. 뉴모피즘과 글래스모피즘을 알게 된지도 얼마 안된 것 같았는데 이이제는 뉴모피즘보다 글래스모피즘이 더 각광받고 있다는 사실이 흥미로웠습니다.",
 			"url": "https://yozm.wishket.com/magazine/detail/347/",
@@ -1105,7 +1105,7 @@
 			"tags": ["UI/UX"]
 		},
 		{
-			"id": 138,
+			"id": 139,
 			"title": "프론트엔드 코딩 작업에 영감을 줄 8가지 아이디어",
 			"summary": "프론트엔드 코드로 작성된 인상 깊은 UI를 소개하고 이 작업을 구현한다면 배울 수 있는 점을 덧붙이는 글입니다. 개인적으로 사이버펑크 느낌의 버튼을 코드만으로 구현할 수 있다는 게 신기했습니다.",
 			"url": "https://yozm.wishket.com/magazine/detail/806/?fbclid=IwAR3alHseObJ4gEMkLLplF9rsfZaBC7moT0PDBHLRMreVEIQiSW3otxAnOII",
