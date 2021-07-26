@@ -25,7 +25,7 @@ export const COLORS = [
   },
   {
     name: 'HTML/CSS',
-    color: 'FFB55E',
+    color: '87A841',
   },
   {
     name: 'Front-end',
