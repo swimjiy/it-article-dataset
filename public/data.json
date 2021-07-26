@@ -774,7 +774,7 @@
 			"summary": "매력적인 글쓰는 방법을 소개하는 시리즈입니다. 인트로에서는 간단하게 글쓰기가 왜 필요한지, 그리고 이 시리즈에서 무엇을 배울 수 있는지 소개하고 있습니다. 블로그를 운영하면서 최근 소재에 대한 고갈이나 나에게 더 맞는 글쓰기 패턴을 고민하고 있었는데 도움이 될 것 같아 오늘부터 읽어볼 계획입니다.",
 			"url": "https://www.julian.com/guide/write/intro",
 			"date": "2020-12-12",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Writing"]
 		},
 		{
 			"id": 98,
@@ -782,7 +782,7 @@
 			"summary": "http의 발전 과정과 웹소켓의 탄생까지 흐름 및 특징들을 정리한 글입니다. 이번에 서버를 공부하면서 웹소켓에 대한 이야기가 나와 궁금했었는데 개념이랑 기존 나이브한 HTTP에 대한 비교가 잘 설명되어 있어 궁금증을 해소할 수 있었습니다.",
 			"url": "https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788",
 			"date": "2020-12-13",
-			"tags": ["WEB"]
+			"tags": ["WEB", "Network"]
 		},
 		{
 			"id": 99,
@@ -790,7 +790,7 @@
 			"summary": "HTML5에서 추가된 요소들 중 사용자들과 상호작용이 가능한 요소들을 소개하는 글입니다. 이번에 Details 태그를 처음 알게 되어 찾아보다가 발견하게 된 글인데 이외에도 command, menu 등 유용한 요소들을 새롭게 알 수 있었습니다.",
 			"url": "https://webdir.tistory.com/321",
 			"date": "2020-12-14",
-			"tags": ["WEB"]
+			"tags": ["HTML/CSS", "WEB"]
 		},
 		{
 			"id": 100,
@@ -830,7 +830,7 @@
 			"summary": "CSS 프레임워크인 Tailwind CSS를 소개하는 글입니다. CSS 프레임워크에 대한 고민은 항상 있었는데 직관적으로 코드를 짤 수 있다는 점이 마음에 들어 다음 프로젝트에서 시도해보면 좋을 것 같다고 생각했습니다.",
 			"url": "https://wonny.space/writing/dev/hello-tailwind-css",
 			"date": "2021-01-22",
-			"tags": ["WEB"]
+			"tags": ["HTML/CSS", "Front-end"]
 		},
 		{
 			"id": 105,
@@ -838,7 +838,7 @@
 			"summary": "URL과 URI가 각각 어떤 의미를 가지고 있고 어떤 차이가 있는지 설명하는 글입니다. 예전부터 URI라는 용어를 볼 때마다 URL과 무엇이 다른지 궁금했었는데 URI가 더 상위 개념이라는 사실을 새롭게 알 수 있었습니다.",
 			"url": "https://blog.lael.be/post/61",
 			"date": "2021-01-22",
-			"tags": ["WEB"]
+			"tags": ["WEB", "Network"]
 		},
 		{
 			"id": 106,
@@ -846,7 +846,7 @@
 			"summary": "효율적인 에러 핸들링에 대해 설명하는 글입니다.",
 			"url": "https://jbee.io/react/error-declarative-handling-0/",
 			"date": "2021-04-05",
-			"tags": ["WEB"]
+			"tags": ["Front-end"]
 		},
 		{
 			"id": 107,
@@ -854,7 +854,7 @@
 			"summary": "UX 엔지니어가 하는 일, 특히 토스에서 어떤 업무를 하는 지 소개하는 글입니다. UX 엔지니어란 직군 자체가 생소하게 느껴져서 읽게 되었는데 더 좋은 사용자 경험을 위해 고민한다는 점이 인상 깊었습니다.",
 			"url": "https://blog.toss.im/2021/04/06/tossteam/insight/ux-engineer-interview/",
 			"date": "2021-04-07",
-			"tags": ["ETC"]
+			"tags": ["UI/UX"]
 		},
 		{
 			"id": 108,
@@ -870,7 +870,7 @@
 			"summary": "Node.js 개발자 라이언 달이 직접 얘기한 Node.js를 만들며 후회한 점을 정리한 글입니다.",
 			"url": "https://kingofbackend.tistory.com/112",
 			"date": "2021-04-13",
-			"tags": ["javaScript"]
+			"tags": ["Node.js"]
 		},
 		{
 			"id": 110,
@@ -894,7 +894,7 @@
 			"summary": "리액트에서 컴포넌트를 분류하는 기준 중 container 컴포넌트와 presentational 컴포넌트에 대해 설명하는 글입니다. 비즈니스 로직과 화면을 그리는 기능을 분리하여 유지보수에 쉽게 한다는 점이 신기했습니다.",
 			"url": "https://jeffgukang.github.io/react-native-tutorial/docs/state-tutorial/redux-tutorial/04-container-and-presentational/container-and-presentational-kr.html",
 			"date": "2021-04-16",
-			"tags": ["javaScript"]
+			"tags": ["React", "Front-end"]
 		},
 		{
 			"id": 113,
@@ -910,7 +910,7 @@
 			"summary": "필자가 여러 직군 중에서 왜 데이터 엔지니어를 선택했는지, 그리고 데이터 엔지니어 취업을 위해 어떤 활동을 했는지 소개하는 글입니다.",
 			"url": "https://tansfil.tistory.com/66",
 			"date": "2021-04-23",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 115,
@@ -918,7 +918,7 @@
 			"summary": "우아한 형제들에 4년 간 근무했던 필자가 퇴사하며 느낀 점을 정리한 글입니다. 7년 차 개발자는 어떤 이유로 회사를 평가하는지 꾸밈없이 들을 수 있었습니다.",
 			"url": "https://woowabros.github.io/experience/2021/04/18/autopsy.html",
 			"date": "2021-04-27",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 116,
@@ -926,7 +926,7 @@
 			"summary": "국내외 쉬운 언어 정책을 소개하고 이를 기술 문서 작업에 어떻게 녹일 수 있을지 설명하는 글입니다. 블로그를 쓸 때에도 참고하면 좋을 지침들이 있어 유용하게 읽었습니다.",
 			"url": "https://tech-kakaoenterprise.tistory.com/105?fbclid=IwAR0Ej4oSS4FLDxKcmChwe3xyZPKzHJ4xVga82Ht9DKkCfSIiEqc26wr7ej8",
 			"date": "2021-04-29",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Writing"]
 		},
 		{
 			"id": 117,
@@ -950,7 +950,7 @@
 			"summary": "당근마켓에서 어떤 방식으로 Node.js를 활용하여 서비스를 제공하는지 설명하는 글입니다. 당근마켓이라면 백엔드 개발을 루비로 하는 것으로 알고 있었는데 필요에 따라 다양한 언어를 사용한다는 사실을 알 수 있었습니다.",
 			"url": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc",
 			"date": "2021-05-12",
-			"tags": ["javaScript"]
+			"tags": ["Node.js"]
 		},
 		{
 			"id": 120,
@@ -958,7 +958,7 @@
 			"summary": "토스에서 새로운 패키지 관리 시스템 Yarn Berry을 도입하게 된 배경과 장점을 소개하는 글입니다.",
 			"url": "https://toss.tech/article/node-modules-and-yarn-berry",
 			"date": "2021-05-22",
-			"tags": ["javaScript"]
+			"tags": ["Node.js"]
 		},
 		{
 			"id": 121,
@@ -982,7 +982,7 @@
 			"summary": "개발자들에게 필요한 문제 해결 능력에 대해 설명한 글입니다.",
 			"url": "https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%8A%A5%EB%A0%A5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-f2bb22fdc0ad",
 			"date": "2021-06-06",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 124,
@@ -990,7 +990,7 @@
 			"summary": "필자가 새 프로젝트 개발을 시작하며 프레임워크를 정할 때 어떤 점을 고려했는지 소개하는 글입니다. 여태 생각 없이 리액트를 쓰고 있었는데 이번 포스팅을 통해 각 프레임워크의 차이와 장단점을 알 수 있었습니다.",
 			"url": "https://tech.kakaoenterprise.com/109",
 			"date": "2021-06-07",
-			"tags": ["React"]
+			"tags": ["Front-end", "React"]
 		},
 		{
 			"id": 125,
@@ -998,7 +998,7 @@
 			"summary": "리액트 훅의 useEffect를 사용할 때 알아야 할 네 가지를 소개하는 글입니다. 개인적으로 조건부 사용법은 원래 쓰고 있던 방법이었지만 한 번 더 중요성을 인지할 수 있었습니다.",
 			"url": "https://ui.toast.com/weekly-pick/ko_20200916",
 			"date": "2021-06-08",
-			"tags": ["React"]
+			"tags": ["Front-end", "React"]
 		},
 		{
 			"id": 126,
@@ -1006,7 +1006,7 @@
 			"summary": "웹에서 쿠키와 세션을 사용하게 된 배경, 그리고 그 특징과 차이에 대해 설명한 글입니다.",
 			"url": "https://junhyunny.github.io/information/cookie-and-session/",
 			"date": "2021-06-11",
-			"tags": ["WEB"]
+			"tags": ["WEB", "Network"]
 		},
 		{
 			"id": 127,
@@ -1014,7 +1014,7 @@
 			"summary": "신입 개발자가 바라본 시니어 개발자의 모습과 어떤 점을 배웠는지 설명하는 글입니다. 특히 시니어 개발자는 주변 일들에 늘 관심을 갖고 있다는 얘기가 인상깊었습니다.",
 			"url": "https://yozm.wishket.com/magazine/detail/771/",
 			"date": "2021-06-20",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 128,
@@ -1022,7 +1022,7 @@
 			"summary": "HTTP/3에서 TCP가 아닌 UDP를 사용하게 된 이유와 UDP를 사용함으로써 얻는 이점에 대해 설명한 글입니다.",
 			"url": "https://evan-moon.github.io/2019/10/08/what-is-http3/",
 			"date": "2021-06-21",
-			"tags": ["WEB"]
+			"tags": ["WEB", "Network"]
 		},
 		{
 			"id": 129,
@@ -1030,7 +1030,7 @@
 			"summary": "서비스에서 버튼의 문구를 ~하기로 쓰는 이유에 대해 설명하고 이를 지양해야 하는 이유에 대해 정리한 글입니다.",
 			"url": "https://brunch.co.kr/@joojun",
 			"date": "2021-06-24",
-			"tags": ["ETC"]
+			"tags": ["UI/UX"]
 		},
 		{
 			"id": 130,
@@ -1046,7 +1046,7 @@
 			"summary": "프론트 테스트의 유형과 종류, 그리고 자주 사용하는 용어까지 정리된 글입니다. 프론트 테스트는 어디서부터 시작할 지 감이 안잡혔는데 덕분에 조금이나마 이해할 수 있었습니다.",
 			"url": "https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d",
 			"date": "2021-07-01",
-			"tags": ["javaScript"]
+			"tags": ["Front-end"]
 		},
 		{
 			"id": 132,
@@ -1054,7 +1054,7 @@
 			"summary": "Chart.js와 vue를 이용해 데이터 시각화를 한 방법을 소개하는 글입니다. 설명이 깔끔하게 정리되어 쉽게 이해할 수 있었고 최근에 D3.js를 이용해 시각화를 해볼 때 고충을 겪었던지라 다음에 Chart.js를 도입해 보면 좋겠다고 생각했습니다.",
 			"url": "https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html",
 			"date": "2021-07-01",
-			"tags": ["javaScript"]
+			"tags": ["Front-end", "javaScript"]
 		},
 		{
 			"id": 133,
@@ -1094,7 +1094,7 @@
 			"summary": "타입 스크립트를 사용하며 버려야 할 나쁜 버릇에 대해 소개하고 좋은 코드로 작성하는 방법을 설명하는 글입니다. 일을 하며 무심코 쓰고 있던 코드에 대해 다시 생각해 볼 계기가 되었습니다.",
 			"url": "https://ui.toast.com/weekly-pick/ko_20210217",
 			"date": "2021-07-20",
-			"tags": ["javaScript"]
+			"tags": ["TypeScript"]
 		},
 		{
 			"id": 138,
@@ -1110,7 +1110,7 @@
 			"summary": "프론트엔드 코드로 작성된 인상 깊은 UI를 소개하고 이 작업을 구현한다면 배울 수 있는 점을 덧붙이는 글입니다. 개인적으로 사이버펑크 느낌의 버튼을 코드만으로 구현할 수 있다는 게 신기했습니다.",
 			"url": "https://yozm.wishket.com/magazine/detail/806/?fbclid=IwAR3alHseObJ4gEMkLLplF9rsfZaBC7moT0PDBHLRMreVEIQiSW3otxAnOII",
 			"date": "2021-07-26",
-			"tags": ["Front-end"]
+			"tags": ["Front-end", "HTML/CSS"]
 		}
 	]
 }
