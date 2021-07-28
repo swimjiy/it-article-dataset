@@ -86,7 +86,7 @@
 			"summary": "글 자체는 JENNIFER Front라는 프론트엔드 모니터링 도구에 대한 소개가 주를 이룹니다. 다만 프론트엔드 개발을 하다보면 속도에 대한 문제를 항상 마주하게 되는데, 어떤 부분에서 주로 느려지는 상황이 생기는지 항목별로 알 수 있어 재밌게 읽었습니다.",
 			"url": "https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C?fbclid=IwAR3zGPeXC2J7nEweumeTxvCjerwZ1rwSOedjXf5hmmAqr1T_vsZHoJf-71Y",
 			"date": "2020-09-17",
-			"tags": ["WEB"]
+			"tags": ["Front-end"]
 		},
 		{
 			"id": 12,
@@ -102,7 +102,7 @@
 			"summary": "프론트엔드 파트에서 왜 테스트 자동화가 중요한지, 그리고 좋은 테스트 방법이란 어떤 것인지 설명하는 글입니다. 오늘 소개한 글은 1편이며 총 3편으로 이루어져 있습니다. 평소에 테스트의 중요성을 인지하고는 있었지만 어떻게 접근을 하면 좋을지 막연했는데 갈피를 잡는 데 도움이 되었습니다.",
 			"url": "https://meetup.toast.com/posts/174",
 			"date": "2020-09-19",
-			"tags": ["WEB"]
+			"tags": ["Front-end"]
 		},
 		{
 			"id": 14,
@@ -158,7 +158,7 @@
 			"summary": "카카오 FE플랫폼팀에서는 어떤 기술 스택, 개발 문화를 갖고 있는지 간단한 통계 자료를 곁들여 설명하는 글입니다. fe개발자로서 평소에도 다른 회사의 프론트엔드 개발자는 어떻게 일을 하는지 궁금했기에 재미있게 읽었습니다.",
 			"url": "https://tech.kakao.com/2020/09/21/kakao-fe-platform-team/",
 			"date": "2020-09-26",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Front-end"]
 		},
 		{
 			"id": 21,
@@ -238,7 +238,7 @@
 			"summary": "이번에 새롭게 업데이트된 Vue3의 주요 기능들을 소개하는 글입니다.",
 			"url": "https://joshua1988.github.io/web-development/vuejs/vue3-coming/",
 			"date": "2020-10-06",
-			"tags": ["javaScript"]
+			"tags": ["javaScript", "Front-end"]
 		},
 		{
 			"id": 31,
@@ -254,7 +254,7 @@
 			"summary": "Node의 path 모듈 중에서 여러 경로를 하나로 합쳐주는 join과 resolve에 대패 정리한 글입니다. webpack을 공부하면서 어디서는 join, 어디서는 resolve를 쓰길래 궁금해서 찾아봤는데 resolve만의 차이점이 있다는 것을 알 수 있었습니다.",
 			"url": "https://www.hanumoka.net/2018/11/08/node-20181108-node-path-join-vs-resolve/",
 			"date": "2020-10-08",
-			"tags": ["javaScript"]
+			"tags": ["javaScript", "Node.js"]
 		},
 		{
 			"id": 33,
@@ -278,7 +278,7 @@
 			"summary": "Node.js 프레임워크인 express와 koa의 차이점에 대해 설명한 글입니다. express공부를 하다 koa라는 게 있다는 걸 알게 되었는데 정확히 어떤 차이가 있는지 알 수 있었습니다.",
 			"url": "https://velog.io/@noyo0123/express-vs-koa-qyk24lsozz",
 			"date": "2020-10-11",
-			"tags": ["javaScript"]
+			"tags": ["javaScript", "Node.js"]
 		},
 		{
 			"id": 36,
@@ -286,7 +286,7 @@
 			"summary": "8월에 새로 공개된 CSS 속성 content-visibility를 소개하는 글입니다. 렌더링 성능을 CSS 속성 만으로도 개선할 수 있다는 사실이 신기해서 재밌게 읽었습니다.",
 			"url": "https://wit.nts-corp.com/2020/09/11/6223",
 			"date": "2020-10-12",
-			"tags": ["WEB"]
+			"tags": ["HTML/CSS"]
 		},
 		{
 			"id": 37,
@@ -326,7 +326,7 @@
 			"summary": "css 스타일링을 할 때 지양해야 할 습관들을 설명한 글입니다. 개인적으로 쓰던 습관들이 있어 뜨끔한 경우도 있었고, 평소에 공감하던 내용도 있어서 재미있게 읽었습니다.",
 			"url": "https://brunch.co.kr/@skykamja24/267",
 			"date": "2020-10-17",
-			"tags": ["WEB"]
+			"tags": ["WEB", "HTML/CSS"]
 		},
 		{
 			"id": 42,
@@ -342,7 +342,7 @@
 			"summary": "당근마켓에서 최근 Go와 Typescript 개발자를 채용하게 된 이유에 대해 설명한 글입니다. 저 또한 당근마켓은 루비로 개발한다고 알고 있었기에 궁금증을 해결할 수 있었습니다.",
 			"url": "https://medium.com/daangn/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-go%EC%99%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-3c08a4cf7ca8",
 			"date": "2020-10-19",
-			"tags": ["ETC"]
+			"tags": ["ETC", "TypeScript"]
 		},
 		{
 			"id": 44,
@@ -374,7 +374,7 @@
 			"summary": "이번에 새로 릴리즈된 Node.js v15에서 새롭게 추가된 기능들을 소개하는 글입니다. 아직 노드를 제대로 공부하지 않아서 전부 이해한 건 아니라 헷갈리는 개념들은 나중에 차차 배워볼 예정입니다.",
 			"url": "https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278",
 			"date": "2020-10-23",
-			"tags": ["javaScript"]
+			"tags": ["javaScript", "Node.js"]
 		},
 		{
 			"id": 48,
@@ -406,7 +406,7 @@
 			"summary": "styled component를 사용하며 생기는 문제들을 디버깅 과정을 통해 발견하는 글입니다. css-in-js를 적용하는 과정에서도 생각보다 깊은 이해가 필요하다는 사실을 알게 되었습니다.",
 			"url": "https://class101.dev/ko/blog/2020/10/24/hero",
 			"date": "2020-10-27",
-			"tags": ["React"]
+			"tags": ["React", "javaScript"]
 		},
 		{
 			"id": 52,
@@ -470,7 +470,7 @@
 			"summary": "새롭게 출시한 webpack5에서 주목할만한 변경사항들을 설명하는 글입니다.",
 			"url": "https://medium.com/frontend-digest/whats-new-in-webpack-5-ef619bb74fae",
 			"date": "2020-11-04",
-			"tags": ["WEB"]
+			"tags": ["WEB", "Front-end"]
 		},
 		{
 			"id": 60,
@@ -486,7 +486,7 @@
 			"summary": "typescript 한글화 핸드북 중에서 제네릭을 설명하는 글입니다. 이번에 제네릭을 이용하여 코드를 짤 일이 생겨서 찾아봤는데 확실히 한 번 써보고 나니 좋은 이유를 알 수 있었습니다.",
 			"url": "https://typescript-kr.github.io/pages/generics.html",
 			"date": "2020-11-06",
-			"tags": ["javaScript"]
+			"tags": ["TypeScript"]
 		},
 		{
 			"id": 62,
@@ -494,7 +494,7 @@
 			"summary": "구직자에게 있어 글쓰기, 또는 글을 읽는 행동의 중요성을 설명하는 글입니다. 저 또한 취업 준비를 하는 과정에서 글의 소재를 발굴하고 쓰는 일의 중요성을 깨달았기에 공감가는 글이었습니다.",
 			"url": "https://medium.com/code-states/%EA%B5%AC%EC%A7%81%EC%9E%90%EC%97%90%EA%B2%8C-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%8A%94-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-b64d3c1d031b",
 			"date": "2020-11-07",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Writing"]
 		},
 		{
 			"id": 63,
@@ -662,7 +662,7 @@
 			"summary": "백엔드 개발, 그 중에서도 Node.js를 처음 시작할 때 알면 좋을 개념들을 소개하는 글입니다. 마침 이번에 노드 공부를 시작할 기회가 생겨 재미있게 읽었습니다.",
 			"url": "https://medium.com/swlh/10-nodejs-things-you-should-know-master-to-be-a-pro-bdfdb5620c0b",
 			"date": "2020-11-28",
-			"tags": ["javaScript"]
+			"tags": ["javaScript", "Node.js"]
 		},
 		{
 			"id": 84,
@@ -670,7 +670,7 @@
 			"summary": "필자의 SPA 개발 경험을 돌이키며 SPA의 문제점을 설명하는 글입니다. 아직 퍼포먼스나 비용과 관련해서는 크게 고민해보지 못한지라 이런 견해도 있구나 하고 생각했습니다.",
 			"url": "https://seokjun.kim/spa-is-aweful/",
 			"date": "2020-11-29",
-			"tags": ["ETC"]
+			"tags": ["Front-end"]
 		},
 		{
 			"id": 85,
@@ -678,7 +678,7 @@
 			"summary": "필자가 생각하기에 프론트엔드 면접에서 나올 것 같은 질문들을 정리한 글입니다. 아직 이직할 생각은 없지만 면접 질문을 보면서 내가 얼마나 이 직무에 대해 이해하고 있는지, 앞으로 어떤 부분을 공부하면 좋을지 생각해볼 수 있는 시간이 되었습니다.",
 			"url": "https://joshua1988.github.io/web-development/interview/frontend-questions/?fbclid=IwAR1L0JxbWD7gZJghKsXxP_KUJPq-ex-STLennYPBdyjB3urKiBgFEHR2Ggw",
 			"date": "2020-11-30",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Front-end"]
 		},
 		{
 			"id": 86,
@@ -686,7 +686,7 @@
 			"summary": "현재 많이 언급되는 JavaScript 프론트엔드 프레임워크들을 비교한 글입니다. 인기도, 리소스, 성능, 학습 곡선, 사용 사례까지 5가지의 기준으로 비교했기 때문에 어떤 점에서는 어떤 프레임워크가 더 나은지 구체적으로 확인해볼 수 있었습니다.",
 			"url": "https://dev.to/hb/react-vs-vue-vs-angular-vs-svelte-1fdm?fbclid=IwAR13E7sGWP60tazSHGOTqRcwZ1AT5vdyVVYKYvui5czFx2OHtG3ll_ayCH0",
 			"date": "2020-12-01",
-			"tags": ["javaScript"]
+			"tags": ["javaScript", "React", "Front-end"]
 		},
 		{
 			"id": 87,
@@ -694,7 +694,7 @@
 			"summary": "카카오에서 테크니컬 라이터로 일하고 계신 크루분의 인터뷰입니다. 평소에 관심 있던 직무라 주로 어떤 일을 하는지, 그리고 어떤 역량이 필요한지 알 수 있어서 재미있게 읽었습니다.",
 			"url": "https://tech-kakaoenterprise.tistory.com/69?fbclid=IwAR0btj68f3K6aNhJrEJ8zGp_nonTzWk4lmhTj5lEcCFTaz7zvpI97-QWRlE",
 			"date": "2020-12-02",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Writing"]
 		},
 		{
 			"id": 88,
@@ -734,7 +734,7 @@
 			"summary": "데이블의 프런트엔드 팀 ZET에서 기준으로 정한 성장 레벨을 소개하는 글입니다. 특정 회사에서 기준한 레벨이기에 정확하지 않을 수 있지만 그래도 제가 어느 정도 레벨이고, 전문성을 높이려면 어떤 역량을 더 키워야하는지 점검할 수 있어 유용하게 읽었습니다.",
 			"url": "https://www.notion.so/ZET-dbb9b6c1cb5d4c2da039a85b6b1dab20",
 			"date": "2020-12-07",
-			"tags": ["자기계발"]
+			"tags": ["자기계발", "Front-end"]
 		},
 		{
 			"id": 93,
