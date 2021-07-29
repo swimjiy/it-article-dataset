@@ -37,7 +37,7 @@ export const COLORS = [
   },
   {
     name: 'Writing',
-    color: '444',
+    color: 'D875AB',
   },
   {
     name: 'TypeScript',
