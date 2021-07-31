@@ -1111,6 +1111,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/806/?fbclid=IwAR3alHseObJ4gEMkLLplF9rsfZaBC7moT0PDBHLRMreVEIQiSW3otxAnOII",
 			"date": "2021-07-26",
 			"tags": ["Front-end", "HTML/CSS"]
+		},
+		{
+			"id": 140,
+			"title": "2021년을 이끌어가는 프론트엔드 개발 트렌드 5가지",
+			"summary": "2021년 프론트엔드 개발 트렌드를 소개하는 글입니다. JAM스택이라는 단어를 처음 들어봤는데 이런 스택을 구성해서 사용할 경우 더 안전하고 빠르게 웹사이트를 구현할 수 있음을 알 수 있었습니다.",
+			"url": "https://yozm.wishket.com/magazine/detail/865/",
+			"date": "2021-07-31",
+			"tags": ["Front-end"]
 		}
 	]
 }
