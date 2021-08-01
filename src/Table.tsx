@@ -116,7 +116,7 @@ const TableComponent:React.FC = () => {
                 <TableRow key={row.id} className={(idx % 2 === 1) ? classes.rowBgDark : ''}>
                   <TableCell>{row.id}</TableCell>
                   <TableCell component="th" scope="row">
-                    <a href={row.url} target="_blank">{row.title}</a>
+                    <a href={row.url} target="_blank" rel="noopener noreferrer">{row.title}</a>
                   </TableCell>
                   <TableCell>{row.summary}</TableCell>
                   <TableCell align="right">{row.date}</TableCell>
