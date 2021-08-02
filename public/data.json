@@ -1119,6 +1119,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/865/",
 			"date": "2021-07-31",
 			"tags": ["Front-end"]
+		},
+		{
+			"id": 141,
+			"title": "자바스크립트에서 모듈내의 private한 속성을 만드는 방법을 아는대로 쓰세요",
+			"summary": "웹 개발자가 알아두면 좋은 질문 중 자바스크립트 private한 속성을 만드는 방법을 소개하는 글입니다. Symbol에 대해 개념만 알고 어떤 상황에서 쓰는 지는 모르고 있었는데 이번 기회에 알 수 있었습니다.",
+			"url": "https://2ssue.github.io/common_questions_for_Web_Developer/docs/Javascript/3_private_property.html#%EC%B0%B8%EA%B3%A0",
+			"date": "2021-08-02",
+			"tags": ["Front-end", "javaScript"]
 		}
 	]
 }
