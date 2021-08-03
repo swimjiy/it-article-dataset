@@ -1127,6 +1127,14 @@
 			"url": "https://2ssue.github.io/common_questions_for_Web_Developer/docs/Javascript/3_private_property.html#%EC%B0%B8%EA%B3%A0",
 			"date": "2021-08-02",
 			"tags": ["Front-end", "javaScript"]
+		},
+		{
+			"id": 142,
+			"title": "카카오웹툰이라는무한한 세계",
+			"summary": "카카오웹툰(구 다음웹툰) 개편을 기념하며 디자인 총괄을 맡은 분의 인터뷰를 담은 글입니다. 평소에 웹툰 서비스를 자주 이용하는지라 이번 업데이트가 여러 모로 인상 깊었는데 어떤 목적을 가지고 만들게 되었는지 알아볼 수 있어 재밌게 읽었습니다.",
+			"url": "https://brunch.co.kr/@andkakao/225",
+			"date": "2021-08-03",
+			"tags": ["UI/UX"]
 		}
 	]
 }
