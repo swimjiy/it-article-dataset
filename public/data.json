@@ -1135,6 +1135,14 @@
 			"url": "https://brunch.co.kr/@andkakao/225",
 			"date": "2021-08-03",
 			"tags": ["UI/UX"]
+		},
+		{
+			"id": 143,
+			"title": "당근런치를 만들어봤어요",
+			"summary": "당근마켓 개발자의 사내 서비스 만드는 과정을 소개하는 글입니다. 생각보다 글이 가벼워 재미있게 읽었고, 사원들과 가볍게 서비스를 만들어볼 수 있는 당근마켓의 자유로운 사내 문화도 엿볼 수 있었습니다.",
+			"url": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%9F%B0%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%96%B4%EC%9A%94-18c368552da6",
+			"date": "2021-08-11",
+			"tags": ["ETC"]
 		}
 	]
 }
