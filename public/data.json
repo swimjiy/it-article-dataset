@@ -1143,6 +1143,14 @@
 			"url": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%9F%B0%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%96%B4%EC%9A%94-18c368552da6",
 			"date": "2021-08-11",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 144,
+			"title": "5년차 프론트엔드 개발자 이직 후기",
+			"summary": "필자가  이번에 겪은 각 회사별 이직 프로세스, 그리고 자주 묻는 질문을 정리한 글입니다. 아직 그 정도 연차가 쌓이려면 멀었지만 프론트엔드 경력 이직은 어떤 것을 주로 보는지 알 수 있어 재미있게 읽었습니다.",
+			"url": "https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0#%ED%95%98%EC%9D%B4%ED%8D%BC%EC%BB%A4%EB%84%A5%ED%8A%B8",
+			"date": "2021-08-11",
+			"tags": ["Front-end", "자기계발"]
 		}
 	]
 }
