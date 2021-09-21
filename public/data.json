@@ -1175,6 +1175,14 @@
 			"url": "https://ui.toast.com/weekly-pick/ko_20210819",
 			"date": "2021-09-08",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 148,
+			"title": "신규 서비스 배포 전에 실험과 개선을 반복한 이야기",
+			"summary": "마켓컬리에서 가상 재고 관리 시스템을 개발하며 겪은 성능 테스트 등 스토리를 적은 글입니다.",
+			"url": "https://helloworld.kurly.com/blog/vsms-performance-experiment/",
+			"date": "2021-09-21",
+			"tags": ["ETC"]
 		}
 	]
 }
