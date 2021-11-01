@@ -1199,6 +1199,14 @@
 			"url": "https://stibee.com/api/v1.0/emails/share/nAxFcFKbgy0QuhzQyGvE_JTjQCDlZQ==",
 			"date": "2021-10-16",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 151,
+			"title": "질문에 대한 유용한 답을 얻는 법",
+			"summary": "개발을 하다보면 이런저런 질문을 하게 되는데, 이 때 필요한 답을 얻을 수 있도록 질문을 하는 방법에 대해 소개하는 글입니다.",
+			"url": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+			"date": "2021-11-01",
+			"tags": ["ETC"]
 		}
 	]
 }
