@@ -1190,7 +1190,7 @@
 			"summary": "소프트웨어 엔지니어에게 필요한 마음가짐과 팁을 소개하는 글입니다. 특히 평소에 기술 부채에 대해 부정적인 생각이 있었는데 이번 글을 읽으며 다시 생각해볼 수 있었습니다.",
 			"url": "https://yozm.wishket.com/magazine/detail/969/?fbclid=IwAR1emAHTkXQreb4CDKHSG1rTw0xWQSp6ATc7EIXGJpAmw9Y0UKOYanhoNxo",
 			"date": "2021-10-11",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 150,
@@ -1198,7 +1198,7 @@
 			"summary": "어떤 마음가짐으로 피드백을 하고 들어야 하는지 설명하는 글입니다. 업무나 토이 프로젝트를 하며 피드백을 주거나 받는 경우가 종종 생기는데 참고하면 좋을 내용들이 있어 재미있게 읽었습니다.",
 			"url": "https://stibee.com/api/v1.0/emails/share/nAxFcFKbgy0QuhzQyGvE_JTjQCDlZQ==",
 			"date": "2021-10-16",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
 		},
 		{
 			"id": 151,
@@ -1206,7 +1206,15 @@
 			"summary": "개발을 하다보면 이런저런 질문을 하게 되는데, 이 때 필요한 답을 얻을 수 있도록 질문을 하는 방법에 대해 소개하는 글입니다.",
 			"url": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
 			"date": "2021-11-01",
-			"tags": ["ETC"]
+			"tags": ["자기계발"]
+		},
+		{
+			"id": 152,
+			"title": "다른 팀이 무슨 일 하는지 왜 알아야 돼?",
+			"summary": "회사에서 왜 내 일만 잘해선 되지 않는지, 다른 팀 그리고 다른 동료가 하는 일을 왜 알면 좋은지 설명하는 글입니다. 일에 치이다보니 내 업무에만 모든 신경이 집중되는 경우가 종종 있었는데 이번 기회에 반성의 시간을 가질 수 있었습니다.",
+			"url": "https://brunch.co.kr/@goodgdg/131",
+			"date": "2021-11-05",
+			"tags": ["자기계발"]
 		}
 	]
 }
