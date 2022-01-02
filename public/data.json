@@ -1231,6 +1231,14 @@
 			"url": "https://tech.kakao.com/2021/11/25/biz-infra-fe-02/",
 			"date": "2021-12-31",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 153,
+			"title": "지식iN 앱을 Flutter로 개발하는 이유",
+			"summary": "Flutter로 앱을 운영하고자 한 계기와 실제로 약 2년 간 운영하며 느낀 크로스 플랫폼의 가능성에 대해 이야기하는 글입니다. 최근 React Native를 쓰며 크로스 플랫폼에 대해 궁금했었는데 이를 해소할 수 있었습니다.",
+			"url": "https://d2.naver.com/helloworld/3384599",
+			"date": "2022-01-02",
+			"tags": ["Front-end"]
 		}
 	]
 }
