@@ -1247,6 +1247,14 @@
 			"url": "https://tristy.tistory.com/51",
 			"date": "2022-01-05",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 155,
+			"title": "Review 2021 프런트엔드, 그리고 2022",
+			"summary": "2021 한 해 프론트엔드 분야에서 이슈가 되었던 기술들과 그에 대한 필자의 감상을 담은 글입니다. 생각보다 모르는 기술이 많아 부지런히 따라잡아야겠다고 생각했습니다.",
+			"url": "https://jbee.io/web/from-2021-to-2022/",
+			"date": "2022-01-06",
+			"tags": ["javaScript"]
 		}
 	]
 }
