@@ -78,9 +78,7 @@ module.exports = {
     new MiniCssExtractPlugin(),
   ],
   devServer: {
-    static: {
-      directory: path.join(__dirname, 'public/index.html'),
-    },
+    contentBase: './build',
     hot: true,
     compress: true,
     historyApiFallback: true,
