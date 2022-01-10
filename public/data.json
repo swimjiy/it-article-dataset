@@ -1255,6 +1255,14 @@
 			"url": "https://jbee.io/web/from-2021-to-2022/",
 			"date": "2022-01-06",
 			"tags": ["WEB", "Front-end"]
+		},
+		{
+			"id": 158,
+			"title": "깃허브 코파일럿(Copilot)은 무엇이며, 왜 욕먹는 걸까?",
+			"summary": "깃허브의 자동 코딩 서비스 코파일럿의 작동 방식과, 논란이 되는 부분들을 정리한 글입니다. 특히 맨 마지막의 라이센스와 관련된 부분은 고려해보지 못한 문제라 많은 생각이 들게 한 글이었습니다.",
+			"url": "https://yozm.wishket.com/magazine/detail/933/",
+			"date": "2022-01-10",
+			"tags": ["ETC"]
 		}
 	]
 }
