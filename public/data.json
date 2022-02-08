@@ -1287,6 +1287,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/1294/",
 			"date": "2022-01-26",
 			"tags": ["자기계발", "Front-end"]
+		},
+		{
+			"id": 162,
+			"title": "사용자 경험과 성능 개선 방법 in 카카오웹툰",
+			"summary": "카카오 웹툰에서 적용한 사용자 경험과 성능 개선 방법을 소개한 글입니다. 실제 성능 뿐만 아니라 Loading Shimmer 등 눈에 보이는 요소의 변화도 유저의 체감에 영향을 미치는 것을 새롭게 알 수 있었습니다.",
+			"url": "https://fe-developers.kakaoent.com/2022/220120-ux-and-perf-in-kakaowebtoon/",
+			"date": "2022-02-08",
+			"tags": ["WEB", "Front-end"]
 		}
 	]
 }
