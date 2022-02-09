@@ -1295,6 +1295,14 @@
 			"url": "https://fe-developers.kakaoent.com/2022/220120-ux-and-perf-in-kakaowebtoon/",
 			"date": "2022-02-08",
 			"tags": ["WEB", "Front-end"]
+		},
+		{
+			"id": 163,
+			"title": "[번역] What You Should Definitely Look Out For In React In 2022",
+			"summary": "2022년에 큰 영향을 미칠 것이라 생각하는 주제나 주목할만한 개념을 다룬 글입니다. Remix같은 새로운 기술도 새롭게 알았고, Storybook처럼 알고는 있었지만 사용하진 않았던 기술들의 필요성도 느낄 수 있었습니다.",
+			"url": "https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-what-you-should-definitely-look-out-for-in-react-in-2022-babd8e02b9a1",
+			"date": "2022-02-09",
+			"tags": ["WEB", "Front-end"]
 		}
 	]
 }
