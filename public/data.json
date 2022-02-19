@@ -1305,7 +1305,7 @@
 			"tags": ["WEB", "Front-end"]
 		},
 		{
-			"id": 163,
+			"id": 164,
 			"title": "카카오웹툰은 CSS를 어떻게 작성하고 있을까?",
 			"summary": "카카오 웹툰에서 어떤 기술을 사용해 CSS를 작성하고 있는지, 각 CSS 작성 방법 별 차이에 대해 설명한 글입니다. 유행하는 기술이라고 무작정 도입하지 말고 서비스의 성격을 파악해 고려해야 함을 다시금 상기시키는 글이었습니다.",
 			"url": "https://fe-developers.kakaoent.com/2022/220210-css-in-kakaowebtoon/?fbclid=IwAR10q4zhGGIdjdd7l9VyDC9Xn0AU0UkoGeDmTyoWotpt6cxn4T6WHLMPkGg",
