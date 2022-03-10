@@ -1311,6 +1311,14 @@
 			"url": "https://fe-developers.kakaoent.com/2022/220210-css-in-kakaowebtoon/?fbclid=IwAR10q4zhGGIdjdd7l9VyDC9Xn0AU0UkoGeDmTyoWotpt6cxn4T6WHLMPkGg",
 			"date": "2022-02-10",
 			"tags": ["HTML/CSS", "Front-end"]
+		},
+		{
+			"id": 165,
+			"title": "React에서 서버 데이터를 최신으로 관리하기(React Query, SWR)",
+			"summary": "React data fetching 라이브러리를 사용하는 이유를 알아보고 대표적인 라이브러리 2개의 장단점을 소개하는 글입니다. SWR과 React Query 사이의 약간의 차이점을 이번에 새롭게 알 수 있었습니다.",
+			"url": "https://fe-developers.kakaoent.com/2022/220224-data-fetching-libs/?fbclid=IwAR1pO8vmk5XJAjffZTNEIGFwkPyqA_HKD2UerK_fkDcrvpFab7bqsuOfTRU",
+			"date": "2022-03-10",
+			"tags": ["React", "Front-end"]
 		}
 	]
 }
