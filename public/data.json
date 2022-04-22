@@ -1319,6 +1319,14 @@
 			"url": "https://fe-developers.kakaoent.com/2022/220224-data-fetching-libs/?fbclid=IwAR1pO8vmk5XJAjffZTNEIGFwkPyqA_HKD2UerK_fkDcrvpFab7bqsuOfTRU",
 			"date": "2022-03-10",
 			"tags": ["React", "Front-end"]
+		},
+		{
+			"id": 166,
+			"title": "컴포넌트를 어떻게 만들어야 할까?",
+			"summary": "프론트엔드 컴포넌트를 어떤 기준으로 분리하면 좋은지 필자의 견해를 적은 글입니다. 전반적으로 글을 흡입력 있게 잘 쓰셔서 쉽게 이해할 수 있었습니다.",
+			"url": "https://kooku0.github.io/blog/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC%ED%95%A0%EA%B9%8C/",
+			"date": "2022-04-22",
+			"tags": ["React", "Front-end"]
 		}
 	]
 }
