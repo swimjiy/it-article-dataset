@@ -1327,6 +1327,14 @@
 			"url": "https://kooku0.github.io/blog/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%95%BC%ED%95%A0%EA%B9%8C/",
 			"date": "2022-04-22",
 			"tags": ["React", "Front-end"]
+		},
+		{
+			"id": 167,
+			"title": "Tailwind CSS 사용기",
+			"summary": "카카오 FE 개발팀에서 Tailwind CSS를 사용하며 알게 된 팁을 공유하는 글입니다. 개인적으로 Tailwind 사용에 대해 우려하는 부분들이 있었는데 Headwind나 twin.macro처럼 이를 보완하는 플러그인이 있다는 걸 새롭게 알 수 있었습니다.",
+			"url": "https://fe-developers.kakaoent.com/2022/220303-tailwind-tips/",
+			"date": "2022-04-29",
+			"tags": ["React", "Front-end", "HTML/CSS"]
 		}
 	]
 }
