@@ -1335,6 +1335,14 @@
 			"url": "https://fe-developers.kakaoent.com/2022/220303-tailwind-tips/",
 			"date": "2022-04-29",
 			"tags": ["React", "Front-end", "HTML/CSS"]
+		},
+		{
+			"id": 168,
+			"title": "웹 스토리지 : 무엇을 써야할까요?",
+			"summary": "각종 웹 스토리지에 대해 설명한 글입니다. 평소 로컬 스토리지를 많이 사용하고 있었는데 동기 방식으로 동작하기 때문에 사용하지 않는 게 좋다는 사실을 새롭게 알 수 있었습니다.",
+			"url": "https://han41858.tistory.com/54",
+			"date": "2022-05-11",
+			"tags": ["WEB", "Network"]
 		}
 	]
 }
