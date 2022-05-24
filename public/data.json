@@ -1351,6 +1351,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/1396/",
 			"date": "2022-05-13",
 			"tags": ["javaScript"]
+		},
+		{
+			"id": 170,
+			"title": "Remix로 쉽게 하는 리액트 서버사이드 렌더링",
+			"summary": "최근에 등장한 SSR 프레임워크 Remix의 사용법에 대해 설명한 글입니다. 최근에 Remix에 대해 접할 기회가 생긴 뒤로 관심이 있었는데, 해당 포스팅을 통해 한 번 더 Remix에 대해 이해할 수 있었습니다.",
+			"url": "https://velog.io/@velopert/learn-remix",
+			"date": "2022-05-24",
+			"tags": ["React", "Front-end"]
 		}
 	]
 }
