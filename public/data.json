@@ -1359,6 +1359,14 @@
 			"url": "https://velog.io/@velopert/learn-remix",
 			"date": "2022-05-24",
 			"tags": ["React", "Front-end"]
+		},
+		{
+			"id": 171,
+			"title": "Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기",
+			"summary": "우아한형제들에서 모노레포를 구축한 경험을 공유한 글입니다. 모노레포는 처음 들어본 개념이었는데 덕분에 모노레포가 뭔지, 사용하는 이유는 무엇인지 등을 이해할 수 있었습니다.",
+			"url": "https://techblog.woowahan.com/7976/",
+			"date": "2022-05-26",
+			"tags": ["Front-end"]
 		}
 	]
 }
