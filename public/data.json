@@ -1375,6 +1375,14 @@
 			"url": "https://playinpap.github.io/understanding-carrying-capacity/",
 			"date": "2022-06-03",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 173,
+			"title": "차세대 빌드 도구 비교",
+			"summary": "webpack을 비롯한 1세대 빌드 도구 이후에 새롭게 등장한 차세대 빌드 도구들을 설명하는 글입니다. esbuild, vite 정도만 알고 있었는데 이외에 다양한 도구들이 있다는 것을 새롭게 알 수 있었습니다.",
+			"url": "https://ui.toast.com/weekly-pick/ko_20220127",
+			"date": "2022-06-05",
+			"tags": ["ETC"]
 		}
 	]
 }
