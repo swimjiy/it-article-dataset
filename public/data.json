@@ -1383,6 +1383,14 @@
 			"url": "https://ui.toast.com/weekly-pick/ko_20220127",
 			"date": "2022-06-05",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 174,
+			"title": "(번역) :where() :is() :has()? 당신의 삶을 더 쉽게 만들어 줄 새로운 CSS 선택자",
+			"summary": "CSS의 새로운 선택자에 대해 소개하는 글입니다. 셋 다 처음 보는 개념이었는데 이제는 CSS도 거의 javaScript처럼 프로그래밍 언어적 성격을 띄는 것 같아 신기해하며 읽었습니다.",
+			"url": "https://junghan92.medium.com/%EB%B2%88%EC%97%AD-where-is-has-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%82%B6%EC%9D%84-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A4%84-%EC%83%88%EB%A1%9C%EC%9A%B4-css-%EC%84%A0%ED%83%9D%EC%9E%90-ee44dd58aa3b",
+			"date": "2022-06-07",
+			"tags": ["HTML/CSS", "Front-end"]
 		}
 	]
 }
