@@ -1391,6 +1391,14 @@
 			"url": "https://junghan92.medium.com/%EB%B2%88%EC%97%AD-where-is-has-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%82%B6%EC%9D%84-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A4%84-%EC%83%88%EB%A1%9C%EC%9A%B4-css-%EC%84%A0%ED%83%9D%EC%9E%90-ee44dd58aa3b",
 			"date": "2022-06-07",
 			"tags": ["HTML/CSS", "Front-end"]
+		},
+		{
+			"id": 175,
+			"title": "프론트엔드 개발자에게도 알고리즘 공부가 중요할까?",
+			"summary": "알고리즘이 실무에 있어 중요한지, 그리고 특히 프론트엔드 개발자에게 필요한지에 대한 필자의 견해를 담은 글입니다. 평소에도 궁금해하던 주제라 재미있게 읽었고 특히 마지막 문장이 인상 깊었습니다.",
+			"url": "https://wormwlrm.github.io/2022/05/28/Should-a-front-end-developer-learn-the-algorithm.html",
+			"date": "2022-06-08",
+			"tags": ["Front-end", "자기계발"]
 		}
 	]
 }
