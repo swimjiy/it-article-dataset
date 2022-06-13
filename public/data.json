@@ -1407,6 +1407,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/1496/",
 			"date": "2022-06-09",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 177,
+			"title": "CSS in 2022",
+			"summary": "원 글쓴이가 2022년에 사용할 수 있을 것이라 예상하는 기술들을 소개한 글입니다. 예측이라 확신할 순 없지만 생긴다면 꼭 써보고 싶은 기술들이 많이 보였던 것 같습니다.",
+			"url": "https://wit.nts-corp.com/2022/02/24/6490",
+			"date": "2022-06-13",
+			"tags": ["HTML/CSS"]
 		}
 	]
 }
