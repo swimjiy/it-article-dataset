@@ -1415,6 +1415,14 @@
 			"url": "https://wit.nts-corp.com/2022/02/24/6490",
 			"date": "2022-06-13",
 			"tags": ["HTML/CSS"]
+		},
+		{
+			"id": 178,
+			"title": "프론트엔드 아키텍처: Business Logic의 분리",
+			"summary": "프론트엔드 코드에서 뷰와 비즈니스 로직을 분리하는 이유, 분리하는 방법과 장단점 등을 설명한 글입니다. 비즈니스 로직에 대해 구체적으로 이해할 수 있는 계기가 되었습니다.",
+			"url": "https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab",
+			"date": "2022-06-15",
+			"tags": ["Front-end"]
 		}
 	]
 }
