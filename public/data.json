@@ -1434,14 +1434,6 @@
 		},
 		{
 			"id": 180,
-			"title": "모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편",
-			"summary": "모노레포가 등장하게 된 배경과 많이 사용하는 도구들을 소개하는 글입니다. 모노레포를 왜 사용하는지 평소 궁금했는데 덕분에 이해할 수 있었습니다.",
-			"url": "https://d2.naver.com/helloworld/0923884",
-			"date": "2022-06-22",
-			"tags": ["Front-end"]
-		},
-		{
-			"id": 181,
 			"title": "Stop Starting Start Finishing",
 			"summary": "Henrik Kniberg의 발표인 'Stop Starting. Start Finishing'를 정리한 글입니다. 어떻게 내 시간을 효율적으로 사용하고 삶의 질을 높일 수 있는지 그림과 함께 소개하는 글이라 재미있게 읽었고, 원문보다 해당 포스팅이 정리가 잘 되어 있어 이 링크로 추가했습니다.",
 			"url": "https://blog.dashlane.com/time-management-tips/",
@@ -1449,7 +1441,7 @@
 			"tags": ["ETC"]
 		},
 		{
-			"id": 182,
+			"id": 181,
 			"title": "개발자가 블로그를 운영하면 좋은 점",
 			"summary": "개발자가 왜 블로그를 써야 하는지, 그리고 어떻게 글을 쓰면 좋을지 필자의 견해를 담은 글입니다. 개인적으로 공감가는 내용들이 많아 재밌게 읽었습니다.",
 			"url": "https://yozm.wishket.com/magazine/detail/1535/",
