@@ -37,7 +37,7 @@ const App: React.FC = () => {
         <TableComponent />
       </Container>
       <footer className={classes.footer}>
-        <Typography variant="caption" paragraph color="textSecondary">© 2020 Swimjiy</Typography>
+        <Typography variant="caption" paragraph color="textSecondary">© 2022 Swimjiy</Typography>
         <a href="https://github.com/swimjiy" target="_blank" title="Link to github"><GitHubIcon color="disabled" /></a>
       </footer>
     </div>
