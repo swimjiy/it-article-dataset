@@ -3,6 +3,7 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Box from '@material-ui/core/Box';
 import Chip from '@material-ui/core/Chip';
+import Link from '@material-ui/core/Link';
 import Paper from '@material-ui/core/Paper';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -115,7 +116,7 @@ const TableComponent:React.FC = () => {
                 <TableRow key={row.id} className={(idx % 2 === 1) ? classes.rowBgDark : ''}>
                   <TableCell>{row.id}</TableCell>
                   <TableCell component="th" scope="row">
-                    <a href={row.url} target="_blank" rel="noopener noreferrer">{row.title}</a>
+                    <Link href={row.url} target="_blank" rel="noopener noreferrer">{row.title}</Link>
                   </TableCell>
                   <TableCell>{row.summary}</TableCell>
                   <TableCell align="right">{row.date}</TableCell>

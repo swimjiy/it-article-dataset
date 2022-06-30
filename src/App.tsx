@@ -6,7 +6,6 @@ import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
 import GitHubIcon from '@material-ui/icons/GitHub';
 
-import './App.css';
 import TableComponent from './Table';
 
 const useStyles = makeStyles((theme) => ({
