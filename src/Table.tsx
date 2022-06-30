@@ -38,7 +38,6 @@ interface HeadCell {
 
 const TableComponent:React.FC = () => {
   const classes = useStyles();
-  
   const headCells: HeadCell[] = [
     { id: 'id', numeric: false, label: 'No' },
     { id: 'title', numeric: false, label: 'Title' },
