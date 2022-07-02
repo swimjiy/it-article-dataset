@@ -1447,6 +1447,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/1535/",
 			"date": "2022-06-27",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 182,
+			"title": "JavaScript 번들러의 이해 — (3) 번들러 개론",
+			"summary": "번들러의 기능들을 소개하는 글입니다. 최근 동아리 내 발표를 듣고 번들러에 대한 관심이 생겼는데 시리즈 전체적으로 잘 정리되어 쉽게 이해했습니다.",
+			"url": "https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503",
+			"date": "2022-07-02",
+			"tags": ["ETC"]
 		}
 	]
 }
