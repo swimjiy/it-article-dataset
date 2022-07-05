@@ -1455,6 +1455,14 @@
 			"url": "https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503",
 			"date": "2022-07-02",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 183,
+			"title": "JavaScript 번들러의 이해 — (3) 번들러 개론",
+			"summary": "자동으로 TypeScript 타입을 생성하는 OpenAPI Specification에 대한 정의와 작성 방법을 설명하는 글입니다. Open API에 대해 처음 알게 되었는데 실제 프로젝트에 사용한다면 좋은 퍼포먼스를 기대할 수 있겠다는 생각이 들었습니다.",
+			"url": "https://medium.com/humanscape-tech/openapi-%EB%AC%B8%EC%84%9C%EC%97%90%EC%84%9C-typescript-%ED%83%80%EC%9E%85-%EB%A7%8C%EB%93%A4%EA%B8%B0-76084d10934e",
+			"date": "2022-07-05",
+			"tags": ["TypeScript"]
 		}
 	]
 }
