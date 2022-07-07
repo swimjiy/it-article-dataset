@@ -1463,6 +1463,14 @@
 			"url": "https://medium.com/humanscape-tech/openapi-%EB%AC%B8%EC%84%9C%EC%97%90%EC%84%9C-typescript-%ED%83%80%EC%9E%85-%EB%A7%8C%EB%93%A4%EA%B8%B0-76084d10934e",
 			"date": "2022-07-05",
 			"tags": ["TypeScript"]
+		},
+		{
+			"id": 184,
+			"title": "27년차 실리콘밸리 개발자의 인생 이야기 [한기용] 1부",
+			"summary": "27년차 개발자인 인터뷰어가 오늘날에 이르기까지 지나온 커리어와 그 사이에 있던 우여곡절을 이야기하는 영상입니다. 말 그대로 인생 선배의 조언을 듣는 기분이라 두고두고 보면 좋을 것 같다고 생각해 영상임에도 추가했습니다.",
+			"url": "https://youtu.be/nLL409se8sM",
+			"date": "2022-07-07",
+			"tags": ["ETC"]
 		}
 	]
 }
