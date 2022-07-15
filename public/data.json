@@ -1471,6 +1471,14 @@
 			"url": "https://youtu.be/nLL409se8sM",
 			"date": "2022-07-07",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 185,
+			"title": "JDD (Ju-Dung-A-Li Driven Development/주둥아리 주도 개발)",
+			"summary": "'주둥아리 주도 개발'이라는 이름으로 안좋은 개발 방법을 풍자하는 깃허브 글입니다. 재밌는 내용도, 뜨끔한 내용도 있어 흥미로운 글이었습니다.",
+			"url": "https://github.com/Lee-WonJun/JDD-Description",
+			"date": "2022-07-15",
+			"tags": ["ETC"]
 		}
 	]
 }
