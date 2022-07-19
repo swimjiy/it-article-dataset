@@ -1479,6 +1479,14 @@
 			"url": "https://github.com/Lee-WonJun/JDD-Description",
 			"date": "2022-07-15",
 			"tags": ["ETC"]
+		},
+		{
+			"id": 186,
+			"title": "개발자에서 기술 작가로 전직하기까지 2년 간의 이야기",
+			"summary": "개발자였던 필자가 기술 작가(테크니컬 라이터)로 전향하기까지의 과정과 기술 작가의 역할에 대해 소개한 글입니다. 저 또한 막연하게 기술 작가는 '문서'를 작성하는 사람이라고 생각했는데 다양한 매체를 도구로 삼을 수 있다는 것을 알게 되었습니다.",
+			"url": "https://tech.devsisters.com/posts/from-engineer-to-techwriter/",
+			"date": "2022-07-19",
+			"tags": ["Writing"]
 		}
 	]
 }
