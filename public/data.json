@@ -1487,6 +1487,14 @@
 			"url": "https://tech.devsisters.com/posts/from-engineer-to-techwriter/",
 			"date": "2022-07-19",
 			"tags": ["Writing"]
+		},
+		{
+			"id": 187,
+			"title": "React-Query 도입을 위한 고민 (feat. Recoil)",
+			"summary": "React-Query와 Recoil을 어떻게 혼합해서 사용할 수 있을지 필자의 생각을 담은 글입니다.",
+			"url": "https://tech.devsisters.com/posts/from-engineer-to-techwriter/",
+			"date": "2022-07-25",
+			"tags": ["React", "Front-end"]
 		}
 	]
 }
