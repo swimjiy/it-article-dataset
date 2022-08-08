@@ -1495,6 +1495,14 @@
 			"url": "https://tech.devsisters.com/posts/from-engineer-to-techwriter/",
 			"date": "2022-07-25",
 			"tags": ["React", "Front-end"]
+		},
+		{
+			"id": 188,
+			"title": "Engineering Ladders",
+			"summary": "개발자의 커리어 패스를 레벨 별로 정리한 프레임워크입니다. 내가 개발자로서 어떤 역량을 지니고 있으며, 목표로 하는 커리어를 위해 어떤 역량을 높여야 할지 참고하기에 좋은 레퍼런스라고 생각해 아티클은 아니지만 가져왔습니다.",
+			"url": "http://www.engineeringladders.com/",
+			"date": "2022-08-08",
+			"tags": ["자기계발"]
 		}
 	]
 }
