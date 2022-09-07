@@ -1503,6 +1503,14 @@
 			"url": "http://www.engineeringladders.com/",
 			"date": "2022-08-08",
 			"tags": ["자기계발"]
+		},
+		{
+			"id": 189,
+			"title": "프론트엔드 프로젝트 최신화 - 2편 : 모노레포",
+			"summary": "채널톡에서 모노레포를 도입하게 된 과정과 소감을 작성한 글입니다. 모노레포에 대한 이야기가 주변에 종종 들려서 읽게 되었는데, 잘 사용하면 효율적이나 이 또한 장단점이 있다는 생각이 들었습니다.",
+			"url": "https://ghost-kr.channel.io/monorepo-in-operation/",
+			"date": "2022-09-07",
+			"tags": ["Front-end"]
 		}
 	]
 }
