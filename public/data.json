@@ -1511,6 +1511,14 @@
 			"url": "https://ghost-kr.channel.io/monorepo-in-operation/",
 			"date": "2022-09-07",
 			"tags": ["Front-end"]
+		},
+		{
+			"id": 190,
+			"title": "넷플릭스가 콘텐츠 제목을 쓰지 않는 이유?",
+			"summary": "넷플릭스가 하단에 따로 콘텐츠 제목을 넣지 않고 이를 썸네일로 대체한 이유를 소개한 글입니다. 늘 갖고 있던 궁금증이었는데 서비스를 어떤 개념(전시회, 영화관)에 둘 것인지의 차이라는 관점이 흥미로웠습니다.",
+			"url": "https://brunch.co.kr/@5bb7412700ae45a/1",
+			"date": "2022-09-08",
+			"tags": ["UI/UX"]
 		}
 	]
 }
