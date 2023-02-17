@@ -1527,6 +1527,14 @@
 			"url": "https://yozm.wishket.com/magazine/detail/1702/?fbclid=IwAR16ekXw1tll5IHT0UDcdwcd6f_Nj6HHLN-I7goDKKo8-zBgEotkV0ZzdMw",
 			"date": "2022-09-25",
 			"tags": ["자기계발"]
+		},
+		{
+			"id": 192,
+			"title": "19년 차 개발자가 고찰한 주니어 개발자가 성장하기 좋은 회사 환경",
+			"summary": "주니어가 성장하기 좋은 환경은 무엇이며 면접에서 어떻게 파악할 수 있는지를 소개하는 글입니다. 지금의 우리 회사와 우리 팀은 성장하기 좋은 회사인지 고민해볼 수 있어서 흥미롭게 있었습니다.",
+			"url": "https://f-lab.kr/blog/criteria-choosing-company-for-developers",
+			"date": "2023-02-17",
+			"tags": ["자기계발"]
 		}
 	]
 }
