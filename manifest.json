@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "내가 읽은 기술 아티클",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "it-article.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "it-article.netlify",
+  "start_url": "/",
+  "theme_color": "#7366ff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/logo-512.png",
+      "sizes": "any"
+    }
+  ],
+  "shortcuts": []
+}
